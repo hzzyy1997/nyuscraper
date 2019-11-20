@@ -2,8 +2,8 @@ const cheerio = require('cheerio');
 const axios = require('axios');
 const mongoose = require('mongoose');
 const fs = require('fs');
-const Course = require('../models/course.model');
-const Professor = require('../models/professor.model');
+const Course = require('./course.model');
+const Professor = require('./professor.model');
 
 require('dotenv').config();
 
