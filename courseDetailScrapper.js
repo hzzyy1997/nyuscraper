@@ -113,8 +113,9 @@ async function storeToDB(course, prof) {
             savedProf = await newProf.save()
             newCourse = new Course(course)
             savedCourse = await newCourse.save()
-            await Course.findByIdAndUpdate(savedCourse._id, { $addToSet : {profs : savedProf._id } })
-            await Professor.findByIdAndUpdate(savedProf._id, {$addToSet : {courses : savedCourse._id }})
+            savedInfo = await Promise.all([savedProf, savedCourse])
+            await Course.findByIdAndUpdate(savedInfo[1]._id, { $addToSet : {profs : savedInfo[0]._id } })
+            await Professor.findByIdAndUpdate(savedInfo[0]._id, {$addToSet : {courses : savedInfo[1]._id }})
             console.log("Adding: ", savedProf.name, "Adding: ", savedCourse.name)
         }
     });
@@ -128,6 +129,7 @@ async function storeToDB(course, prof) {
     dbConnection()
     const courseStr = fs.readFileSync("./course_num_clean.txt").toString();
     courseArr = courseStr.split(',')
+    console.log(courseArr.length)
     const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1204/"
     const course = {}
     const professor = {}
