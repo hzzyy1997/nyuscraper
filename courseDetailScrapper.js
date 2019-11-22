@@ -102,7 +102,8 @@ async function storeToDB(course, prof) {
             console.log("Course Already Exist: ", existingCourse.name, "Adding ", savedProf.name)
         } else if (existingProf) {
             // professor already in database
-            course.prof = [existingProf._id]
+            console.log("step:1", existingProf._id)
+            course.profs = [existingProf._id]
             newCourse = new Course(course)
             savedCourse = await newCourse.save()
             await Professor.findByIdAndUpdate(existingProf._id, {$addToSet : {courses : savedCourse._id }})
@@ -130,7 +131,7 @@ async function storeToDB(course, prof) {
     const courseStr = fs.readFileSync("./course_num_clean.txt").toString();
     courseArr = courseStr.split(',')
     console.log(courseArr.length)
-    const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1204/"
+    const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/"
     const course = {}
     const professor = {}
     for (let i = 0; i < courseArr.length; i++) {
