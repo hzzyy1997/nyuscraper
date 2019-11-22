@@ -17,12 +17,11 @@ function dbConnection() {
     })
 }
 
-function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor) {
+function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor, professor) {
     let course = courseSchoolMajor
     let promise = new Promise(function (resolve, reject) {
         setTimeout(() => {
             const url = baseUrl + courseUrl
-            const professor = {}
             axios.get(url)
                 .then((response) => {
                     const $ = cheerio.load(response.data)
@@ -68,6 +67,9 @@ function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor) {
                             }
                         }
                         if (isClass) {
+                            if (professor.name.includes(',')) {
+                                professor.name.split
+                            }
                             res = [course, professor]
                         }
                         resolve(res)
@@ -123,13 +125,16 @@ async function storeToDB(course, prof) {
     courseArr = courseStr.split(',')
     const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1204/"
     const course = {}
+    const professor = {}
     for (let i = 0; i < courseArr.length; i++) {
         if (courseArr[i][0] === 'm') {
             course.major = courseArr[i].slice(6,)
+            professor.major = courseArr[i].slice(6,)
         } else if (courseArr[i][0] === 's') {
             course.school = courseArr[i].slice(7,)
+            professor.school = courseArr[i].slice(7,)
         } else {
-            const info = await fatchSingleCourse(baseUrl, courseArr[i], course)
+            const info = await fatchSingleCourse(baseUrl, courseArr[i], course, professor)
             if (info) {
                 courseInfo = info[0]
                 profInfo = info[1]
