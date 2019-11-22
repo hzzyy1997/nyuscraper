@@ -129,7 +129,6 @@ async function storeToDB(course, prof) {
     for (let i = 0; i < courseArr.length; i++) {
         if (courseArr[i][0] === 'm') {
             course.major = courseArr[i].slice(6,)
-            professor.major = courseArr[i].slice(6,)
         } else if (courseArr[i][0] === 's') {
             course.school = courseArr[i].slice(7,)
             professor.school = courseArr[i].slice(7,)
@@ -142,5 +141,4 @@ async function storeToDB(course, prof) {
             }
         }
     }
-    // const info = await fatchSingleCourse(baseUrl, courseArr[2])
 })()
