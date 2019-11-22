@@ -4,6 +4,7 @@ const Schema = mongoose.Schema;
 
 const courseSchema = new Schema({ 
     name: {type: String, required: true},
+    code: {type: String},
     major: {type: String},
     school: {type: String},
     number: {type: String},
@@ -12,6 +13,7 @@ const courseSchema = new Schema({
     description: {type: String},
     requirement: {type: String},
     note: {type: String},
+    topic: {type: String},
     profs: [{ type : mongoose.Schema.Types.ObjectId, ref: 'Professor' }],
     comments: [{ type : mongoose.Schema.Types.ObjectId, ref: 'Comment' }]
 }, {

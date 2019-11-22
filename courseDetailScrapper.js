@@ -17,8 +17,7 @@ function dbConnection() {
     })
 }
 
-function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor, professor) {
-    let course = courseSchoolMajor
+function fatchSingleCourse(baseUrl, courseUrl, course, professor) {
     let promise = new Promise(function (resolve, reject) {
         setTimeout(() => {
             const url = baseUrl + courseUrl
@@ -28,6 +27,8 @@ function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor, professor) {
                     const leftElem = $('div.pull-left')
                     const rightElem = $('div.pull-right')
                     const title = $('div.primary-head')
+                    const courseCodeSec = $('h1.page-title')
+                    course.code = $(courseCodeSec[0]).text().trim()
                     course.name = $(title[0]).text().trim()
                     if (leftElem.length !== rightElem.length) {
                         console.error(`divs dont match at ${url}`);
@@ -64,6 +65,10 @@ function fatchSingleCourse(baseUrl, courseUrl, courseSchoolMajor, professor) {
                                 case "Instructor(s)":
                                     professor.name = varVal
                                     break;
+                                case "Topic":
+                                    if (varVal[0] !== "R") {
+                                        course.topic = varVal
+                                    }
                             }
                         }
                         if (isClass) {
@@ -142,3 +147,10 @@ async function storeToDB(course, prof) {
         }
     }
 })()
+
+// async function testSingle(){
+//     const res = await fatchSingleCourse("https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1204/", "7690", {}, {})
+//     console.log(res)
+// }
+
+// testSingle()
