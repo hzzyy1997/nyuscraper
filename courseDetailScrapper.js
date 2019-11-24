@@ -17,7 +17,7 @@ function dbConnection() {
     })
 }
 
-function fatchSingleCourse(baseUrl, courseUrl, course, professor) {
+function fatchSingleCourse(baseUrl, courseUrl, course) {
     let promise = new Promise(function (resolve, reject) {
         setTimeout(() => {
             const url = baseUrl + courseUrl
@@ -63,7 +63,7 @@ function fatchSingleCourse(baseUrl, courseUrl, course, professor) {
                                     course.note = varVal
                                     break;
                                 case "Instructor(s)":
-                                    professor.name = varVal
+                                    profNameArr = varVal.split(',')
                                     break;
                                 case "Topic":
                                     if (varVal[0] !== "R") {
@@ -72,10 +72,14 @@ function fatchSingleCourse(baseUrl, courseUrl, course, professor) {
                             }
                         }
                         if (isClass) {
-                            if (professor.name.includes(',')) {
-                                professor.name.split
+                            const profArr = []
+                            for (let i = 0; i < profNameArr.length; i++) {
+                                let professor = {}
+                                professor.name = profNameArr[i].trim()
+                                professor.school = course.school
+                                profArr.push(professor)
                             }
-                            res = [course, professor]
+                            res = {course: course, profs: profArr}
                         }
                         resolve(res)
                     }
@@ -133,27 +137,35 @@ async function storeToDB(course, prof) {
     console.log(courseArr.length)
     const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/"
     const course = {}
-    const professor = {}
     for (let i = 0; i < courseArr.length; i++) {
         if (courseArr[i][0] === 'm') {
             course.major = courseArr[i].slice(6,)
         } else if (courseArr[i][0] === 's') {
             course.school = courseArr[i].slice(7,)
-            professor.school = courseArr[i].slice(7,)
         } else {
-            const info = await fatchSingleCourse(baseUrl, courseArr[i], course, professor)
+            const info = await fatchSingleCourse(baseUrl, courseArr[i], course)
             if (info) {
-                courseInfo = info[0]
-                profInfo = info[1]
-                storeToDB(courseInfo, profInfo)
+                courseInfo = info.course
+                profInfo = info.profs
+                for (professor of profInfo) {
+                    await storeToDB(courseInfo, professor)
+                }
             }
         }
     }
 })()
 
 // async function testSingle(){
-//     const res = await fatchSingleCourse("https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1204/", "7690", {}, {})
-//     console.log(res)
+//     dbConnection()
+//     const info = await fatchSingleCourse("https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/", 10510, {school: "CAS"})
+//     if (info) {
+//         courseInfo = info.course
+//         profInfo = info.profs
+//         console.log(info)
+//         for (professor of profInfo) {
+//             await storeToDB(courseInfo, professor)
+//         }
+//     }
 // }
 
 // testSingle()
