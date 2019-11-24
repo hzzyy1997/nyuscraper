@@ -90,7 +90,12 @@ function fatchSingleCourse(baseUrl, courseUrl, course) {
 }
 
 async function storeToDB(course, prof) {
-    const findExistingCourse = Course.findOne({name : course.name, major : course.major, school: course.school})
+    let findExistingCourse;
+    if (course.topic !== undefined) {
+        findExistingCourse = Course.findOne({name : course.name, major : course.major, school: course.school, topic: course.topic})
+    } else {
+        findExistingCourse = Course.findOne({name : course.name, major : course.major, school: course.school})
+    }
     const findExistingProf = Professor.findOne({name : prof.name})
     await Promise.all([findExistingCourse, findExistingProf]).then(async function(values) {
         const existingCourse = values[0]
@@ -157,7 +162,7 @@ async function storeToDB(course, prof) {
 
 // async function testSingle(){
 //     dbConnection()
-//     const info = await fatchSingleCourse("https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/", 10510, {school: "CAS"})
+//     const info = await fatchSingleCourse("https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/", 10607, {school: "CAS"})
 //     if (info) {
 //         courseInfo = info.course
 //         profInfo = info.profs
