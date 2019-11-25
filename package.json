@@ -4,7 +4,7 @@
   "description": "web scrapper for nyu",
   "main": "courseDetailScrapper.js",
   "scripts": {
-    "start": "node courseDetailScrapper.js",
+    "start": "node courseDetailScrapper.js  > log-file.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

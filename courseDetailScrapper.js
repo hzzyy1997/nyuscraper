@@ -111,7 +111,6 @@ async function storeToDB(course, prof) {
             console.log("Course Already Exist: ", existingCourse.name, "Adding ", savedProf.name)
         } else if (existingProf) {
             // professor already in database
-            console.log("step:1", existingProf._id)
             course.profs = [existingProf._id]
             newCourse = new Course(course)
             savedCourse = await newCourse.save()
@@ -142,7 +141,7 @@ async function storeToDB(course, prof) {
     console.log(courseArr.length)
     const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/"
     const course = {}
-    for (let i = 0; i < courseArr.length; i++) {
+    for (let i = 1060; i < courseArr.length; i++) {
         if (courseArr[i][0] === 'm') {
             course.major = courseArr[i].slice(6,)
         } else if (courseArr[i][0] === 's') {
