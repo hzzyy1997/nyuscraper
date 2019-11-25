@@ -1374,3 +1374,743 @@ Course Already Exist:  Principles of Biology I Approaching Art History Adding  D
 [ { name: 'Marissa R Knoll',
     school: 'College of Arts and Science' } ]
 info already in db:  Principles of Biology I Approaching Art History   Marissa R Knoll
+
+9597
+[ { name: 'Natasha Christine Koussa',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Natasha Christine Koussa
+
+9598
+[ { name: 'Daniel Sultanov',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Daniel Sultanov
+
+9599
+[ { name: 'Krysten Harvey',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Krysten Harvey
+
+19727
+[ { name: 'Katie Schneider Paolantonio',
+    school: 'College of Arts and Science' } ]
+Adding:  Katie Schneider Paolantonio Adding:  Ecological Field Methods Approaching Art History
+
+7978
+[ { name: 'Joseph Koussa', school: 'College of Arts and Science' },
+  { name: 'Mark L Siegal', school: 'College of Arts and Science' },
+  { name: 'Sevinc Ercan', school: 'College of Arts and Science' } ]
+Adding:  Joseph Koussa Adding:  Molecular and Cell Biology I Approaching Art History
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Mark L Siegal
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Sevinc Ercan
+
+7979
+[ { name: 'Temistocles Molinar',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Temistocles Molinar
+
+7980
+[ { name: 'Joseph Koussa', school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Joseph Koussa
+
+7981
+[ { name: 'Joseph Koussa', school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Joseph Koussa
+
+7982
+[ { name: 'Peter H Whitney',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Peter H Whitney
+
+7983
+[ { name: 'Logan Schachtner',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Logan Schachtner
+
+9178
+[ { name: 'Logan Schachtner',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Logan Schachtner
+
+9179
+[ { name: 'Peter H Whitney',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Peter H Whitney
+
+9314
+[ { name: 'Temistocles Molinar',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Temistocles Molinar
+
+9315
+[ { name: 'Joseph Osmundson',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Molecular and Cell Biology I Approaching Art History Adding  Joseph Osmundson
+
+9898
+[ { name: 'Joseph Osmundson',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology I Approaching Art History   Joseph Osmundson
+
+7984
+[ { name: 'Nataliya V Galifianakis',
+    school: 'College of Arts and Science' } ]
+Adding:  Nataliya V Galifianakis Adding:  Principles of Animal Physiology Approaching Art History
+
+9129
+[ { name: 'Kenneth David Birnbaum',
+    school: 'College of Arts and Science' },
+  { name: 'Lionel A Christiaen',
+    school: 'College of Arts and Science' } ]
+Adding:  Kenneth David Birnbaum Adding:  Developmental Biology Approaching Art History
+Course Already Exist:  Developmental Biology Approaching Art History Adding  Lionel A Christiaen
+
+7985
+[ { name: 'Christine A Rushlow',
+    school: 'College of Arts and Science' } ]
+Adding:  Christine A Rushlow Adding:  Genetics Approaching Art History
+
+7986
+[ { name: 'Porfirio J Fernandez',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Genetics Approaching Art History Adding  Porfirio J Fernandez
+
+21064
+[ { name: 'Porfirio J Fernandez',
+    school: 'College of Arts and Science' } ]
+info already in db:  Genetics Approaching Art History   Porfirio J Fernandez
+
+7987
+[ { name: 'David Sebastian Jimenez',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Genetics Approaching Art History Adding  David Sebastian Jimenez
+
+7988
+[ { name: 'David Sebastian Jimenez',
+    school: 'College of Arts and Science' } ]
+info already in db:  Genetics Approaching Art History   David Sebastian Jimenez
+
+9660
+[ { name: 'Joseph Osmundson',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Joseph Osmundson Adding  At the Bench: Genetics & Genomics Approaching Art History
+
+7989
+[ { name: 'Mary E Killilea',
+    school: 'College of Arts and Science' } ]
+Adding:  Mary E Killilea Adding:  Biostatistics Approaching Art History
+
+7990
+[ { name: 'Spencer Allen Hobson-Gutierrez',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Biostatistics Approaching Art History Adding  Spencer Allen Hobson-Gutierrez
+
+7991
+[ { name: 'Spencer Allen Hobson-Gutierrez',
+    school: 'College of Arts and Science' } ]
+info already in db:  Biostatistics Approaching Art History   Spencer Allen Hobson-Gutierrez
+
+9308
+[ { name: 'Brian Parker', school: 'College of Arts and Science' } ]
+Course Already Exist:  Biostatistics Approaching Art History Adding  Brian Parker
+
+10161
+[ { name: 'Nikos Konstantinidis',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Biostatistics Approaching Art History Adding  Nikos Konstantinidis
+
+10162
+[ { name: 'Nikos Konstantinidis',
+    school: 'College of Arts and Science' } ]
+info already in db:  Biostatistics Approaching Art History   Nikos Konstantinidis
+
+7992
+[ { name: 'Patrick Eichenberger',
+    school: 'College of Arts and Science' } ]
+Adding:  Patrick Eichenberger Adding:  Microbiology and Microbial Genomics Approaching Art History
+
+7993
+[ { name: 'Dan Pollack', school: 'College of Arts and Science' } ]
+Course Already Exist:  Microbiology and Microbial Genomics Approaching Art History Adding  Dan Pollack
+
+7994
+[ { name: 'Dan Pollack', school: 'College of Arts and Science' } ]
+info already in db:  Microbiology and Microbial Genomics Approaching Art History   Dan Pollack
+
+7995
+[ { name: 'Carol Shoshkes Reiss',
+    school: 'College of Arts and Science' } ]
+Adding:  Carol Shoshkes Reiss Adding:  Immunology Approaching Art History
+
+9897
+[ { name: 'Katie Schneider Paolantonio',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Katie Schneider Paolantonio Adding  Fundamentals of Ecology Approaching Art History
+
+7996
+[ { name: 'Carla Leticia Rodríguez',
+    school: 'College of Arts and Science' },
+  { name: 'Tony Movshon', school: 'College of Arts and Science' } ]
+Adding:  Carla Leticia Rodríguez Adding:  Intro to Neural Science Approaching Art History
+Course Already Exist:  Intro to Neural Science Approaching Art History Adding  Tony Movshon
+
+7997
+[ { name: 'Carla Leticia Rodríguez',
+    school: 'College of Arts and Science' } ]
+info already in db:  Intro to Neural Science Approaching Art History   Carla Leticia Rodríguez
+
+7998
+[ { name: 'Kathryn McClain',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Intro to Neural Science Approaching Art History Adding  Kathryn McClain
+
+7999
+[ { name: 'Kathryn McClain',
+    school: 'College of Arts and Science' } ]
+info already in db:  Intro to Neural Science Approaching Art History   Kathryn McClain
+
+8000
+[ { name: 'Pam Osborn Popp',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Intro to Neural Science Approaching Art History Adding  Pam Osborn Popp
+
+9998
+[ { name: 'Pam Osborn Popp',
+    school: 'College of Arts and Science' } ]
+info already in db:  Intro to Neural Science Approaching Art History   Pam Osborn Popp
+
+9142
+[ { name: 'Manpreet Katari',
+    school: 'College of Arts and Science' } ]
+Adding:  Manpreet Katari Adding:  Bioinformatics in Medicine and Biology Approaching Art History
+
+10551
+[ { name: 'Nagashree Srinidhi',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Bioinformatics in Medicine and Biology Approaching Art History Adding  Nagashree Srinidhi
+
+10064
+[ { name: 'Michael Carrozza',
+    school: 'College of Arts and Science' } ]
+Adding:  Michael Carrozza Adding:  ATB Biological Chemistry: Genomes to Molecular Machines Approaching Art History
+
+10077
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  ATB Biological Chemistry: Genomes to Molecular Machines Approaching Art History   Staff
+
+9406
+[ { name: 'Barbara Fei Akum',
+    school: 'College of Arts and Science' } ]
+Adding:  Barbara Fei Akum Adding:  Molecular and Cell Biology Laboratory Approaching Art History
+
+9407
+[ { name: 'Michael Carrozza',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology Laboratory Approaching Art History   Michael Carrozza
+
+9594
+[ { name: 'Joseph Osmundson',
+    school: 'College of Arts and Science' } ]
+info already in db:  Molecular and Cell Biology Laboratory Approaching Art History   Joseph Osmundson
+
+9595
+[ { name: 'Allison Roder', school: 'College of Arts and Science' } ]
+Course Already Exist:  Molecular and Cell Biology Laboratory Approaching Art History Adding  Allison Roder
+
+9999
+[ { name: 'Daniel Tranchina',
+    school: 'College of Arts and Science' } ]
+Adding:  Daniel Tranchina Adding:  Mathematics and Biology Approaching Art History
+
+10012
+[ { name: 'Ondrej Maxian', school: 'College of Arts and Science' } ]
+Course Already Exist:  Mathematics and Biology Approaching Art History Adding  Ondrej Maxian
+
+9659
+[ { name: 'Mary E Killilea',
+    school: 'College of Arts and Science' },
+  { name: 'Nikolai Kirov', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Mary E Killilea Adding  Environmental and Molecular Analysis of a Disease Approaching Art History
+Course Already Exist:  Environmental and Molecular Analysis of a Disease Approaching Art History Adding  Nikolai Kirov
+
+10644
+[ { name: 'Nataliya V Galifianakis',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Nataliya V Galifianakis Adding  Special Topics: Immunology
+
+8004
+[ { name: 'Ignatius P Tan',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Ignatius P Tan Adding  Internship Immunology
+
+9408
+[ { name: 'Gloria Coruzzi',
+    school: 'College of Arts and Science' } ]
+Adding:  Gloria Coruzzi Adding:  Becoming a Scientist (Honors) Immunology
+
+10795
+[ { name: 'Ignatius P Tan',
+    school: 'College of Arts and Science' } ]
+info already in db:  Becoming a Scientist (Honors) Immunology   Ignatius P Tan
+
+8005
+[ { name: 'Ignatius P Tan',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Ignatius P Tan Adding  Independent Study Immunology
+
+8006
+[ { name: 'Mark L Siegal', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Mark L Siegal Adding  Undergraduate Research Thesis Immunology
+
+26345
+[ { name: 'Mark L Siegal', school: 'College of Arts and Science' } ]
+info already in db:  Undergraduate Research Thesis Immunology   Mark L Siegal
+
+7876
+[ { name: 'Jonathan Hume Ritter',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Jonathan Hume Ritter Adding  Freshman Scholars Seminar Immunology
+
+7877
+[ { name: 'Esteban O Mazzoni',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Freshman Scholars Seminar Immunology Adding  Esteban O Mazzoni
+
+7878
+[ { name: 'Anasse Bari', school: 'College of Arts and Science' } ]
+Course Already Exist:  Freshman Scholars Seminar Immunology Adding  Anasse Bari
+
+7879
+[ { name: 'Patrick Eichenberger',
+    school: 'College of Arts and Science' } ]
+info already in db:  Freshman Scholars Seminar Immunology   Patrick Eichenberger
+
+7880
+[ { name: 'Patrick H Deer',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Freshman Scholars Seminar Immunology Adding  Patrick H Deer
+
+7881
+[ { name: 'Jay Garcia', school: 'College of Arts and Science' } ]
+Course Already Exist:  Freshman Scholars Seminar Immunology Adding  Jay Garcia
+
+7882
+[ { name: 'Sarah J Pearce',
+    school: 'College of Arts and Science' } ]
+Adding:  Sarah J Pearce Adding:  Sophomore Scholars Seminar Immunology
+
+7883
+[ { name: 'Helen L Theodoratou',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Helen L Theodoratou
+
+7884
+[ { name: 'Rebecca Anne Goetz',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Rebecca Anne Goetz
+
+7885
+[ { name: 'Renee A Blake', school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Renee A Blake
+
+7886
+[ { name: 'Claude Desplan',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Claude Desplan
+
+7887
+[ { name: 'Maria L Davila',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Maria L Davila
+
+7888
+[ { name: 'Andrew Bell', school: 'College of Arts and Science' } ]
+Course Already Exist:  Sophomore Scholars Seminar Immunology Adding  Andrew Bell
+
+7889
+[ { name: 'Brooke Kroeger',
+    school: 'College of Arts and Science' } ]
+Adding:  Brooke Kroeger Adding:  Junior Scholars Seminar Immunology
+
+7890
+[ { name: 'Richard J Kalb',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Junior Scholars Seminar Immunology Adding  Richard J Kalb
+
+23920
+[ { name: 'Lynne Haney', school: 'College of Arts and Science' } ]
+Course Already Exist:  Junior Scholars Seminar Immunology Adding  Lynne Haney
+
+23921
+[ { name: 'Patrick Eichenberger',
+    school: 'College of Arts and Science' } ]
+info already in db:  Junior Scholars Seminar Immunology   Patrick Eichenberger
+
+23922
+[ { name: 'Jasna Brujic', school: 'College of Arts and Science' } ]
+Course Already Exist:  Junior Scholars Seminar Immunology Adding  Jasna Brujic
+
+23923
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Junior Scholars Seminar Immunology   Staff
+
+7891
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Staff Adding  Seniors Scholars Seminar Immunology
+
+7892
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Seniors Scholars Seminar Immunology   Staff
+
+9149
+[ { name: 'Ronald Callahan',
+    school: 'College of Arts and Science' } ]
+Adding:  Ronald Callahan Adding:  Introduction to Modern Chemistry Immunology
+
+9150
+[ { name: 'Christopher James Arp',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Introduction to Modern Chemistry Immunology Adding  Christopher James Arp
+
+9151
+[ { name: 'Yanfeng Yang', school: 'College of Arts and Science' } ]
+Course Already Exist:  Introduction to Modern Chemistry Immunology Adding  Yanfeng Yang
+
+9152
+[ { name: 'Danielle Marie Nalband',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Introduction to Modern Chemistry Immunology Adding  Danielle Marie Nalband
+
+9153
+[ { name: 'Symara De Melo Silva',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Introduction to Modern Chemistry Immunology Adding  Symara De Melo Silva
+
+9154
+[ { name: 'Steven Song', school: 'College of Arts and Science' } ]
+Course Already Exist:  Introduction to Modern Chemistry Immunology Adding  Steven Song
+
+9156
+[ { name: 'Christopher James Arp',
+    school: 'College of Arts and Science' } ]
+info already in db:  Introduction to Modern Chemistry Immunology   Christopher James Arp
+
+9157
+[ { name: 'Symara De Melo Silva',
+    school: 'College of Arts and Science' } ]
+info already in db:  Introduction to Modern Chemistry Immunology   Symara De Melo Silva
+
+8007
+[ { name: 'John Michael Halpin',
+    school: 'College of Arts and Science' },
+  { name: 'Stephanie Geggier',
+    school: 'College of Arts and Science' } ]
+Adding:  John Michael Halpin Adding:  General Chemistry I & Laboratory Immunology
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Stephanie Geggier
+
+8008
+[ { name: 'Zhihua An', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Zhihua An
+
+8009
+[ { name: 'Zhihua An', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Zhihua An
+
+8010
+[ { name: 'James Robert Eastwood',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  James Robert Eastwood
+
+8011
+[ { name: 'Zhihua An', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Zhihua An
+
+8012
+[ { name: 'Burt Goldberg', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Burt Goldberg
+
+8013
+[ { name: 'Burt Goldberg', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Burt Goldberg
+
+8014
+[ { name: 'Burt Goldberg', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Burt Goldberg
+
+8015
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Yoel Ohayon
+
+8016
+[ { name: 'Malgorzata Mandziuk',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Malgorzata Mandziuk
+
+8017
+[ { name: 'Zhihua An', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Zhihua An
+
+8018
+[ { name: 'Malgorzata Mandziuk',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Malgorzata Mandziuk
+
+8019
+[ { name: 'Malgorzata Mandziuk',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Malgorzata Mandziuk
+
+8020
+[ { name: 'Alexa Paris Harnagel',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Alexa Paris Harnagel
+
+8021
+[ { name: 'James Robert Eastwood',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   James Robert Eastwood
+
+8022
+[ { name: 'Trinanjana Mandal',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Trinanjana Mandal
+
+8023
+[ { name: 'Trinanjana Mandal',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Trinanjana Mandal
+
+10168
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Yoel Ohayon
+
+8024
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Yoel Ohayon
+
+8025
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Yoel Ohayon
+
+10169
+[ { name: 'Burt Goldberg', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Burt Goldberg
+
+8026
+[ { name: 'Linhai Jiang', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Linhai Jiang
+
+8027
+[ { name: 'Linhai Jiang', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Linhai Jiang
+
+8030
+[ { name: 'Alida Nicole Besch',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Alida Nicole Besch
+
+8031
+[ { name: 'Arielle Susan Mann',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Arielle Susan Mann
+
+8032
+[ { name: 'Alexa Paris Harnagel',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Alexa Paris Harnagel
+
+8033
+[ { name: 'Willmor J Pena Ccoa',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Willmor J Pena Ccoa
+
+8034
+[ { name: 'Olivia Maria Maffei',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Olivia Maria Maffei
+
+9388
+[ { name: 'Alida Nicole Besch',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Alida Nicole Besch
+
+8036
+[ { name: 'Arielle Susan Mann',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Arielle Susan Mann
+
+8037
+[ { name: 'Brock Matthew Nelson',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Brock Matthew Nelson
+
+8038
+[ { name: 'Willmor J Pena Ccoa',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Willmor J Pena Ccoa
+
+8039
+[ { name: 'Qintian Zhou', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Qintian Zhou
+
+8040
+[ { name: 'Chengyuan Wang',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Chengyuan Wang
+
+8041
+[ { name: 'Stephanie Geggier',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Stephanie Geggier
+
+8042
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Yoel Ohayon
+
+8043
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Richard Orr
+
+8045
+[ { name: 'Qintian Zhou', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Qintian Zhou
+
+8046
+[ { name: 'Trinanjana Mandal',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Trinanjana Mandal
+
+8047
+[ { name: 'Eman Ahmed', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Eman Ahmed
+
+8048
+[ { name: 'Trinanjana Mandal',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Trinanjana Mandal
+
+8049
+[ { name: 'Nicolle Skye Jackson',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Nicolle Skye Jackson
+
+8050
+[ { name: 'Veronica Rae Grebe',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Veronica Rae Grebe
+
+8051
+[ { name: 'Brock Matthew Nelson',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Brock Matthew Nelson
+
+8052
+[ { name: 'Sharon Ramati', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Sharon Ramati
+
+8053
+[ { name: 'Gaurav Mitra', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Gaurav Mitra
+
+8054
+[ { name: 'Stephanie Geggier',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Stephanie Geggier
+
+8057
+[ { name: 'Veronica Rae Grebe',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Veronica Rae Grebe
+
+8058
+[ { name: 'Xue Yao', school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Xue Yao
+
+8059
+[ { name: 'Linhai Jiang', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Linhai Jiang
+
+8060
+[ { name: 'James Robert Eastwood',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   James Robert Eastwood
+
+8063
+[ { name: 'Yoel Ohayon', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Yoel Ohayon
+
+8064
+[ { name: 'Zhihua An', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Zhihua An
+
+8066
+[ { name: 'Sharon Ramati', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Sharon Ramati
+
+8069
+[ { name: 'Gaurav Mitra', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Gaurav Mitra
+
+8070
+[ { name: 'Chengyuan Wang',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry I & Laboratory Immunology   Chengyuan Wang
+
+8071
+[ { name: 'Sophia Theresa Lozowski',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Sophia Theresa Lozowski
+
+8072
+[ { name: 'Joseph Richard Cendagorta',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry I & Laboratory Immunology Adding  Joseph Richard Cendagorta
+
+8073
+[ { name: 'Burt Goldberg', school: 'College of Arts and Science' },
+  { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Burt Goldberg Adding  General Chemistry II & Laboratory Immunology
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+8074
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+8075
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+8076
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+10042
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+8077
+[ { name: 'Richard Orr', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Richard Orr
+
+8078
+[ { name: 'Joseph Richard Cendagorta',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Joseph Richard Cendagorta
+
+8079
+[ { name: 'Eman Ahmed', school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Eman Ahmed
+
+8080
+[ { name: 'Sophia Theresa Lozowski',
+    school: 'College of Arts and Science' } ]
+info already in db:  General Chemistry II & Laboratory Immunology   Sophia Theresa Lozowski
+
+8081
+[ { name: 'Lourania Madison Oliver',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry II & Laboratory Immunology Adding  Lourania Madison Oliver
+
+9374
+[ { name: 'Jocelyn (Jieyu) Lu',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  General Chemistry II & Laboratory Immunology Adding  Jocelyn (Jieyu) Lu
