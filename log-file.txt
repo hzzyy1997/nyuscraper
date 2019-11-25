@@ -1,0 +1,325 @@
+mongodb+srv://Jack_Zhang:zyy1997@cluster0-ktrme.mongodb.net/new_eznyu?retryWrites=true&w=majority
+15797
+MongoDB database is connected successfully
+Adding:  Michelle Mary Dyke Adding:  Advanced Introduction to Bioethics
+Adding:  Claudia Maria Passos Adding:  Research Ethics:
+Adding:  Adam Jared Lerner Adding:  Justice in Health & Healthcare
+Adding:  Alexis A Merdjanoff Adding:  Independent Study
+Course Already Exist:  Independent Study Adding  Erez Hatna
+Course Already Exist:  Independent Study Adding  Rudolf Knippenberg
+Course Already Exist:  Independent Study Adding  Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+Adding:  Katherine M O'Regan Adding:  Microeconomics for Public Management, Planning & Policy Analysis
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Sewin Chan
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Katherine M O'Regan
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Sewin Chan
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Erica Hoyt Dixon
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Pisei Chea
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Rebecca Hamburger
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Glenda Kee
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Matthew J Looney
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Matthew J Looney
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Sarah Aita
+Adding:  S Matthew Liao Adding:  Moral Indeterminacy
+Adding:  Amelia Boehme Adding:  Epidemiology
+Course Already Exist:  Epidemiology Adding  Donovan Jones
+Course Already Exist:  Epidemiology Adding  Paul R Brown
+Course Already Exist:  Epidemiology Adding  Robert Vincent Jones
+Course Already Exist:  Epidemiology Adding  John W Meade
+Course Already Exist:  Epidemiology Adding  Samuel Wolfe
+Course Already Exist:  Epidemiology Adding  Oluwatomi Hannah Oluwasanmi
+info already in db:  Epidemiology   Amelia Boehme
+info already in db:  Epidemiology   Donovan Jones
+Course Already Exist:  Epidemiology Adding  Jay S Bala
+info already in db:  Epidemiology   Oluwatomi Hannah Oluwasanmi
+Adding:  Michael S West Adding:  Financial Mgmt for Public, Nonprofit, and Health Organizations
+Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations Adding  Anubhav Gupta
+Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations Adding  Chai Francis Jindasurat
+Adding:  Joyce A O'Connor Adding:  Introduction to Principles of Nutrition in Public Health
+Adding:  Jo Ivey Boufford Adding:  Foundations of Global Health
+Adding:  Stephanie Cook Adding:  Global Issues in Social & Behavioral Health
+Course Already Exist:  Global Issues in Social & Behavioral Health Adding  David B Abrams
+Course Already Exist:  Global Issues in Social & Behavioral Health Adding  Raymond S Niaura
+info already in db:  Global Issues in Social & Behavioral Health   Alexis A Merdjanoff
+info already in db:  Global Issues in Social & Behavioral Health   David B Abrams
+info already in db:  Global Issues in Social & Behavioral Health   Raymond S Niaura
+Course Already Exist:  Global Issues in Social & Behavioral Health Adding  David Abramson
+Professor Already Exist:  Erez Hatna Adding  Introduction to Agent-Based Modeling
+Course Already Exist:  Introduction to Agent-Based Modeling Adding  Joshua Epstein
+Adding:  Jack Caravanos Adding:  Global Environmental Health
+Professor Already Exist:  Alexis A Merdjanoff Adding  Qualitative & Field Methods
+Adding:  Andrea L Deierlein Adding:  Essentials of Public Health Biology
+Adding:  Jennifer L Pomeranz Adding:  Food Policy for Public Health
+Adding:  Joyce Moon Howard Adding:  Assessing Community Health Needs
+Adding:  Gary Yu Adding:  Psychometric Measurement and Analysis in Public Health Research and Practice
+Adding:  Emily S Goldmann Adding:  Perspectives In Global Mental
+Course Already Exist:  Perspectives In Global Mental Adding  Sabrina Hermosilla
+Adding:  William Rom Adding:  Climate Change and Global Public Health
+Professor Already Exist:  Jack Caravanos Adding  Environmental Health Assessments and Interventions
+Adding:  Melody Goodman Adding:  Introduction to Data Management and Statistical Computing
+info already in db:  Introduction to Data Management and Statistical Computing   Melody Goodman
+Course Already Exist:  Introduction to Data Management and Statistical Computing Adding  Rebecca A Betensky
+Adding:  Stephanie Palmer Adding:  Strategic Management
+Course Already Exist:  Strategic Management Adding  Preston Lindsay
+Adding:  Richard Alderslade Adding:  Global Health Governance and Management
+Professor Already Exist:  Andrea L Deierlein Adding  Reproductive and Pediatric Health: A Focus in Nutrition
+Adding:  Yesim Tozan Adding:  Program Planning and Evaluation
+Adding:  Shu Xu Adding:  Regression II: Categorical Data Analysis
+info already in db:  Regression II: Categorical Data Analysis   Stephanie Cook
+Adding:  Cheryl Merzel Adding:  Applied Practice Experience Seminar
+Course Already Exist:  Applied Practice Experience Seminar Adding  Andrew Goodman
+info already in db:  Applied Practice Experience Seminar   Cheryl Merzel
+Course Already Exist:  Applied Practice Experience Seminar Adding  Karyn E Faber
+Course Already Exist:  Applied Practice Experience Seminar Adding  Leconte Dill
+Adding:  Carolyn Anne Berry Adding:  Evaluating Programs and Policies
+Course Already Exist:  Evaluating Programs and Policies Adding  Rachel L Swaner
+Course Already Exist:  Evaluating Programs and Policies Adding  Jodi F Paroff
+Adding:  Christopher Patrick Dickey Adding:  Data-Driven Decision Making in Global Public Health
+Adding:  Julie Shahroudi Adding:  Continuous Quality Improvement
+Adding:  Kamyar Arasteh Adding:  Intermediate Epidemiology
+info already in db:  Intermediate Epidemiology   Kamyar Arasteh
+Adding:  Nina S Parikh Adding:  Thesis I: Practice ​and Integrative Learning Experiences
+info already in db:  Thesis I: Practice ​and Integrative Learning Experiences   Nina S Parikh
+Course Already Exist:  Thesis I: Practice ​and Integrative Learning Experiences Adding  Jennifer Cantrell
+Adding:  Christiana Coyle Adding:  Epidemiological Methods and Design
+info already in db:  Epidemiological Methods and Design   Christiana Coyle
+Adding:  Thomas Kirchner Adding:  Theories in Public Health, Practice, Policy & Research
+Adding:  Ryan R Ruff Adding:  Biostatistics for Public Health
+info already in db:  Biostatistics for Public Health   Ryan R Ruff
+Course Already Exist:  Biostatistics for Public Health Adding  Dennis Kunichoff
+info already in db:  Biostatistics for Public Health   Dennis Kunichoff
+Adding:  Niyati Parekh Adding:  Perspectives in PublicHealth: Doctoral Seminar I
+Adding:  Dorice L Vieira Adding:  Evidence-Based Public Health & Systematic Review Best Practices
+Adding:  Nancy L Van Devanter Adding:  Methods in Community Health Research
+Course Already Exist:  Methods in Community Health Research Adding  Victoria H. Raveis
+Professor Already Exist:  Staff Adding  Doctoral Advisement
+Professor Already Exist:  Claudia Maria Passos Adding  Research Ethics
+Adding:  Danielle C Ompad Adding:  Experimental Study Designs in Epidemiology
+info already in db:  Regression II: Categorical Data Analysis   Shu Xu
+info already in db:  Regression II: Categorical Data Analysis   Stephanie Cook
+info already in db:  Intermediate Epidemiology   Kamyar Arasteh
+info already in db:  Intermediate Epidemiology   Kamyar Arasteh
+Professor Already Exist:  S Matthew Liao Adding  Bioethics Practicum
+Professor Already Exist:  Thomas Kirchner Adding  Theories in Public Health Practice & Research
+Professor Already Exist:  Staff Adding  Foundations for Epidemiology and Biostatics
+Course Already Exist:  Epidemiology Adding  Farzana Kapadia
+Adding:  Danny Anthony Schieffler Adding:  Global Issues in Social and Behavioral Health
+info already in db:  Global Environmental Health   Jack Caravanos
+Professor Already Exist:  Karyn E Faber Adding  Introduction to Public Health
+Professor Already Exist:  Dorice L Vieira Adding  Global Public Health Informatics
+Course Already Exist:  Essentials of Public Health Biology Adding  Kristen Marie Gulino
+Adding:  Joanna R Pozen Adding:  Health & Human Rights
+Adding:  Robyn Gershon Adding:  Management of Public Health Disasters
+Adding:  Sally Guttmacher Adding:  Global Perspectives in Reproductive Health & Human Rights
+Adding:  Angelie Singh Adding:  Data Utilization in Public Health Practice
+Adding:  Kayode Stephen Oyegbite Adding:  Data-Driven Decision-Making in Global Public Health
+Professor Already Exist:  Christopher Patrick Dickey Adding  Results-Focused Strengthening of Health Systems in LMIC Countries
+info already in db:  Results-Focused Strengthening of Health Systems in LMIC Countries   Kayode Stephen Oyegbite
+info already in db:  Biostatistics for Public Health   Ryan R Ruff
+Adding:  Marybec Griffin Adding:  Health and Society in a Global Context
+Course Already Exist:  Health and Society in a Global Context Adding  Drew A Blasco
+Course Already Exist:  Health and Society in a Global Context Adding  Sarah Aviva Lieff
+Course Already Exist:  Health and Society in a Global Context Adding  Virginia W Chang
+Adding:  Daniel Robert Fogal Adding:  Introduction to Bioethics
+Professor Already Exist:  Shu Xu Adding  Biostatistics for Public Health
+Course Already Exist:  Biostatistics for Public Health Adding  Anthony Donoghue
+Adding:  Alison S Bateman-House Adding:  Ethics and Clinical Practice
+Course Already Exist:  Ethics and Clinical Practice Adding  Brendan Parent
+Adding:  Courtney A McKnight Adding:  Epidemiology for Global Health
+Course Already Exist:  Epidemiology for Global Health Adding  David Barnes
+Professor Already Exist:  Claudia Maria Passos Adding  Ethics and Technology
+Adding:  Diana R Silver Adding:  Health Policy in a Global World
+Course Already Exist:  Health Policy in a Global World Adding  Nana Kofi Quakyi
+Adding:  Barron H Lerner Adding:  Controversies and Debates in Public Health
+Adding:  Lori A Hoepner Adding:  Environmental Health in a Global World
+info already in db:  Environmental Health in a Global World   William Rom
+Professor Already Exist:  Adam Jared Lerner Adding  Medical Ethics
+Adding:  Julie A Avina Adding:  Undergraduate Experiential Learning in Global Public Health
+info already in db:  Undergraduate Experiential Learning in Global Public Health   Joyce Moon Howard
+Professor Already Exist:  Christopher Patrick Dickey Adding  Public Health Entrepreneurial Ventures
+Professor Already Exist:  Daniel Robert Fogal Adding  The Ethics of Reproduction
+Professor Already Exist:  Staff Adding  Independent Study
+Adding:  Jeffrey Raymond Sebo Adding:  Ethics and Animals
+Course Already Exist:  Ethics and Animals Adding  Mariana Arellano Corbello
+Adding:  David Jonathan Wolfson Adding:  Animals and Public Policy
+Course Already Exist:  Animals and Public Policy Adding  Eve Wetlaufer
+Adding:  Bruce Grant Adding:  Culture, Power, Society
+Course Already Exist:  Culture, Power, Society Adding  Andrew Robert Patrick Ashley
+Course Already Exist:  Culture, Power, Society Adding  Tierney Bridget Brown
+info already in db:  Culture, Power, Society   Tierney Bridget Brown
+info already in db:  Culture, Power, Society   Andrew Robert Patrick Ashley
+Course Already Exist:  Culture, Power, Society Adding  Parmida Mostafavi
+info already in db:  Culture, Power, Society   Parmida Mostafavi
+Adding:  Scott Alan Williams Adding:  Human Evolution
+Course Already Exist:  Human Evolution Adding  Abigail Colby
+info already in db:  Human Evolution   Abigail Colby
+Course Already Exist:  Human Evolution Adding  Audrey Mi-Young Choi
+info already in db:  Human Evolution   Audrey Mi-Young Choi
+Course Already Exist:  Human Evolution Adding  Amber Eliza Trujillo
+info already in db:  Human Evolution   Amber Eliza Trujillo
+Course Already Exist:  Human Evolution Adding  Emma Ayres Kozitzky
+info already in db:  Human Evolution   Emma Ayres Kozitzky
+Adding:  Pam Crabtree Adding:  Archaeology: Early Societies & Culture
+Course Already Exist:  Archaeology: Early Societies & Culture Adding  Allison Mary Casaly
+info already in db:  Archaeology: Early Societies & Culture   Allison Mary Casaly
+Course Already Exist:  Archaeology: Early Societies & Culture Adding  Alice Rodriguez
+info already in db:  Archaeology: Early Societies & Culture   Alice Rodriguez
+Adding:  Mel A. Maldonado-Salcedo Adding:  Global Biocultures: Anthropological Perspectives on Public Health
+Course Already Exist:  Global Biocultures: Anthropological Perspectives on Public Health Adding  Teresa de Jesus Martinez Chavez
+Adding:  Jenna Lawrence Adding:  Primate Behavior and Ecology
+Adding:  Paola Cerrito Adding:  Emerging Diseases
+Course Already Exist:  Emerging Diseases Adding  Todd Disotell
+Adding:  Jerome O Whitington Adding:  Ethnographies of Asia
+Adding:  Tejaswini Ganti Adding:  Media, Culture, and Society
+Adding:  Justin Pargeter Adding:  Prehistoric Hunters and Gatherers
+Adding:  Jesse L Wolfhagen Adding:  Early Cities and States
+Adding:  Arlene M Davila Adding:  Ethnicity & The Media
+Adding:  Esther Choo Adding:  Introduction to Forensic Anthropology
+Course Already Exist:  Introduction to Forensic Anthropology Adding  Jennifer Lila Trowbridge
+Adding:  Jayati Narain Adding:  Human Rights & Culture
+Course Already Exist:  Human Rights & Culture Adding  Paula Fernandez-Wulff
+Professor Already Exist:  Jerome O Whitington Adding  Transnationalism
+Adding:  Elan Louis Abrell Adding:  The Social Life of Food
+Adding:  Anne M Rademacher Adding:  Urban Greening Lab: New York
+Adding:  Michael C Gilsenan Adding:  Islam in the World
+Adding:  Elizabeth N Ellis Adding:  Introduction to Native American Studies
+Course Already Exist:  Introduction to Native American Studies Adding  Jane Anderson
+Adding:  Sally E Merry Adding:  Honors Research I
+Professor Already Exist:  Pam Crabtree Adding  Independent Study
+info already in db:  Independent Study   Anne M Rademacher
+Course Already Exist:  Independent Study Adding  Terry Harrison
+info already in db:  Independent Study   Emily S Goldmann
+Course Already Exist:  Independent Study Adding  Elayne Mary Oliphant
+info already in db:  Independent Study   Bruce Grant
+info already in db:  Independent Study   Scott Alan Williams
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+info already in db:  Independent Study   Staff
+Adding:  Carol H Krinsky Adding:  History of Western Art I
+info already in db:  History of Western Art I   Carol H Krinsky
+info already in db:  History of Western Art I   Carol H Krinsky
+Course Already Exist:  History of Western Art I Adding  Alexa Sue Amore
+info already in db:  History of Western Art I   Alexa Sue Amore
+Course Already Exist:  History of Western Art I Adding  Rebecca Ann Salem
+info already in db:  History of Western Art I   Rebecca Ann Salem
+Adding:  Kenneth E Silver Adding:  History of Western Art II
+info already in db:  History of Western Art II   Kenneth E Silver
+info already in db:  History of Western Art II   Kenneth E Silver
+Course Already Exist:  History of Western Art II Adding  Francesca Ferrari
+info already in db:  History of Western Art II   Francesca Ferrari
+Course Already Exist:  History of Western Art II Adding  Jennifer G Buonocore
+info already in db:  History of Western Art II   Jennifer G Buonocore
+Adding:  Abhilasha Vedantam Isaac Adding:  Ancient Art
+Course Already Exist:  Ancient Art Adding  John N Hopkins
+Adding:  Cristina Aldrich Adding:  Renaissance Art
+Course Already Exist:  Renaissance Art Adding  Louise Rice
+Adding:  Ami Imai Brett Adding:  Modern Art
+Course Already Exist:  Modern Art Adding  Julia E Robinson
+Course Already Exist:  Modern Art Adding  Megan Anne Kincaid
+Professor Already Exist:  John N Hopkins Adding  Roman Architecture
+Professor Already Exist:  Carol H Krinsky Adding  Medieval Architecture
+Adding:  Kathryn Ann Smith Adding:  Sp Tpcs Medieval Art:
+Adding:  Dennis V Geronimus Adding:  Sp Tpcs Renaissance & Baroque Art:
+Adding:  Christopher Wood Adding:  Sp Tpcs Renaissance & Baroque Art:
+Adding:  Samuel Corey Allen Adding:  Sp Tpcs Modern Art:
+Course Already Exist:  Sp Tpcs Modern Art: Adding  Shelley Rice
+Adding:  Meredith S Martin Adding:  Sp Tpcs Modern Art:
+Professor Already Exist:  Julia E Robinson Adding  Sp Tpcs Modern Art:
+Adding:  Eana Kim Adding:  Sp Tpcs Modern Art:
+Course Already Exist:  Sp Tpcs Modern Art: Adding  Joseph Low Karmel
+Adding:  Lyla Marie Halsted Adding:  East Asian Art I: China, Korea, Japan to 1000 Ce
+Course Already Exist:  East Asian Art I: China, Korea, Japan to 1000 Ce Adding  Michele Alberto Matteini
+Adding:  Dipti Khera Adding:  South Asian Art I: Indus Valley to 1200
+Adding:  Nadia Ali Adding:  Art in The Islamic World II: Mongols to Modernism
+Adding:  Sandy Prita Meier Adding:  Arts of Africa
+Course Already Exist:  Arts of Africa Adding  Scarlett Strauss
+Adding:  Grace Walsh Adding:  History of Architecture: Antiquity to Present
+Course Already Exist:  History of Architecture: Antiquity to Present Adding  Jonathan Hume Ritter
+info already in db:  History of Architecture: Antiquity to Present   Grace Walsh
+info already in db:  History of Architecture: Antiquity to Present   Jonathan Hume Ritter
+Adding:  Theodore Liebman Adding:  Sp Tpcs in Urban Design & Architecture:
+Adding:  Lynden B Miller Adding:  Sp Tpcs in Urban Design & Architecture:
+Adding:  Jennifer Bolstad Adding:  Sp Tpcs in Urban Design & Architecture:
+Professor Already Exist:  Jonathan Hume Ritter Adding  Sp Tpcs in Urban Design & Architecture:
+Adding:  Maria Ibanez Adding:  Sp Tpcs in Urban Design & Architecture:
+Course Already Exist:  Sp Tpcs in Urban Design & Architecture: Adding  Todd Rouhe
+Adding:  Yetsuh Frank Adding:  Sp Tpcs in Urban Design & Architecture:
+Adding:  Desiree S Mitton Adding:  Shaping The Urban Environment
+Course Already Exist:  Shaping The Urban Environment Adding  Mosette Broderick
+info already in db:  Shaping The Urban Environment   Desiree S Mitton
+info already in db:  Shaping The Urban Environment   Mosette Broderick
+info already in db:  Shaping The Urban Environment   Desiree S Mitton
+info already in db:  Shaping The Urban Environment   Mosette Broderick
+Adding:  James D Morgan Adding:  Decision-Making & Urban Design
+Adding:  Austin Sakong Adding:  Architecture in Context
+Course Already Exist:  Architecture in Context Adding  Luis A Bustamante
+Adding:  Holly B Haff Adding:  Urban Design: Infrastructure
+Adding:  Stephen M Raphael Adding:  Urban Design & The Law
+Professor Already Exist:  Kenneth E Silver Adding  Advanced Seminar
+Professor Already Exist:  Shelley Rice Adding  Advanced Seminar
+Course Already Exist:  Advanced Seminar Adding  Ulrich C Baer
+Professor Already Exist:  Louise Rice Adding  Advanced Seminar
+Professor Already Exist:  Kathryn Ann Smith Adding  Advanced Seminar
+Professor Already Exist:  Dipti Khera Adding  Advanced Seminar
+Professor Already Exist:  James D Morgan Adding  Senior Honors Thesis I
+Professor Already Exist:  Meredith S Martin Adding  Independent Studies
+info already in db:  Independent Studies   Meredith S Martin
+Adding:  Miriam M Basilio Adding:  Special Topics:
+Adding:  Joan Breton Connelly Adding:  Special Topics:
+Adding:  Leila A Amineddoleh Adding:  Special Topics:
+Professor Already Exist:  Joseph Low Karmel Adding  Special Topics:
+Adding:  Ignatius P Tan Adding:  Practical Human Physiology
+Adding:  David H A Fitch Adding:  Principles of Biology I
+Course Already Exist:  Principles of Biology I Adding  Stephen J Small
+Course Already Exist:  Principles of Biology I Adding  Natasha Christine Koussa
+Course Already Exist:  Principles of Biology I Adding  Gizem Guzelsoy
+Course Already Exist:  Principles of Biology I Adding  Amanda Ferreira
+Course Already Exist:  Principles of Biology I Adding  Cassandra Buzby
+info already in db:  Principles of Biology I   Natasha Christine Koussa
+info already in db:  Principles of Biology I   Cassandra Buzby
+Course Already Exist:  Principles of Biology I Adding  Xinyi Guo
+info already in db:  Principles of Biology I   Xinyi Guo
+Course Already Exist:  Principles of Biology I Adding  Krysten Harvey
+info already in db:  Principles of Biology I   Gizem Guzelsoy
+info already in db:  Principles of Biology I   Amanda Ferreira
+Course Already Exist:  Principles of Biology I Adding  Federica Sartori
+info already in db:  Principles of Biology I   Federica Sartori
+Course Already Exist:  Principles of Biology I Adding  Marissa R Knoll
+Course Already Exist:  Principles of Biology I Adding  Woo Jin Kim
+info already in db:  Principles of Biology I   Woo Jin Kim
+Course Already Exist:  Principles of Biology I Adding  Yen-Chung Chen
+info already in db:  Principles of Biology I   Yen-Chung Chen
+info already in db:  Principles of Biology I   Amanda Ferreira
+Course Already Exist:  Principles of Biology I Adding  Daniel Sultanov
+info already in db:  Principles of Biology I   Marissa R Knoll
+info already in db:  Principles of Biology I   Natasha Christine Koussa
+info already in db:  Principles of Biology I   Daniel Sultanov
+info already in db:  Principles of Biology I   Krysten Harvey
+Adding:  Katie Schneider Paolantonio Adding:  Ecological Field Methods
+Adding:  Joseph Koussa Adding:  Molecular and Cell Biology I
+Course Already Exist:  Molecular and Cell Biology I Adding  Mark L Siegal
+Course Already Exist:  Molecular and Cell Biology I Adding  Sevinc Ercan
+Course Already Exist:  Molecular and Cell Biology I Adding  Temistocles Molinar
+info already in db:  Molecular and Cell Biology I   Joseph Koussa
+info already in db:  Molecular and Cell Biology I   Joseph Koussa
+Course Already Exist:  Molecular and Cell Biology I Adding  Peter H Whitney
+Course Already Exist:  Molecular and Cell Biology I Adding  Logan Schachtner
+info already in db:  Molecular and Cell Biology I   Logan Schachtner
+info already in db:  Molecular and Cell Biology I   Peter H Whitney
+info already in db:  Molecular and Cell Biology I   Temistocles Molinar
+Course Already Exist:  Molecular and Cell Biology I Adding  Joseph Osmundson
+info already in db:  Molecular and Cell Biology I   Joseph Osmundson
+Adding:  Nataliya V Galifianakis Adding:  Principles of Animal Physiology
+Adding:  Kenneth David Birnbaum Adding:  Developmental Biology
+Course Already Exist:  Developmental Biology Adding  Lionel A Christiaen
+Adding:  Christine A Rushlow Adding:  Genetics
+Course Already Exist:  Genetics Adding  Porfirio J Fernandez
+info already in db:  Genetics   Porfirio J Fernandez
+Course Already Exist:  Genetics Adding  David Sebastian Jimenez
+info already in db:  Genetics   David Sebastian Jimenez
