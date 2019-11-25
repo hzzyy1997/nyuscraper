@@ -1,325 +1,1376 @@
 mongodb+srv://Jack_Zhang:zyy1997@cluster0-ktrme.mongodb.net/new_eznyu?retryWrites=true&w=majority
 15797
 MongoDB database is connected successfully
-Adding:  Michelle Mary Dyke Adding:  Advanced Introduction to Bioethics
-Adding:  Claudia Maria Passos Adding:  Research Ethics:
-Adding:  Adam Jared Lerner Adding:  Justice in Health & Healthcare
-Adding:  Alexis A Merdjanoff Adding:  Independent Study
-Course Already Exist:  Independent Study Adding  Erez Hatna
-Course Already Exist:  Independent Study Adding  Rudolf Knippenberg
-Course Already Exist:  Independent Study Adding  Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-Adding:  Katherine M O'Regan Adding:  Microeconomics for Public Management, Planning & Policy Analysis
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Sewin Chan
-info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Katherine M O'Regan
-info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Sewin Chan
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Erica Hoyt Dixon
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Pisei Chea
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Rebecca Hamburger
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Glenda Kee
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Matthew J Looney
-info already in db:  Microeconomics for Public Management, Planning & Policy Analysis   Matthew J Looney
-Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis Adding  Sarah Aita
-Adding:  S Matthew Liao Adding:  Moral Indeterminacy
-Adding:  Amelia Boehme Adding:  Epidemiology
-Course Already Exist:  Epidemiology Adding  Donovan Jones
-Course Already Exist:  Epidemiology Adding  Paul R Brown
-Course Already Exist:  Epidemiology Adding  Robert Vincent Jones
-Course Already Exist:  Epidemiology Adding  John W Meade
-Course Already Exist:  Epidemiology Adding  Samuel Wolfe
-Course Already Exist:  Epidemiology Adding  Oluwatomi Hannah Oluwasanmi
-info already in db:  Epidemiology   Amelia Boehme
-info already in db:  Epidemiology   Donovan Jones
-Course Already Exist:  Epidemiology Adding  Jay S Bala
-info already in db:  Epidemiology   Oluwatomi Hannah Oluwasanmi
-Adding:  Michael S West Adding:  Financial Mgmt for Public, Nonprofit, and Health Organizations
-Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations Adding  Anubhav Gupta
-Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations Adding  Chai Francis Jindasurat
-Adding:  Joyce A O'Connor Adding:  Introduction to Principles of Nutrition in Public Health
-Adding:  Jo Ivey Boufford Adding:  Foundations of Global Health
-Adding:  Stephanie Cook Adding:  Global Issues in Social & Behavioral Health
-Course Already Exist:  Global Issues in Social & Behavioral Health Adding  David B Abrams
-Course Already Exist:  Global Issues in Social & Behavioral Health Adding  Raymond S Niaura
-info already in db:  Global Issues in Social & Behavioral Health   Alexis A Merdjanoff
-info already in db:  Global Issues in Social & Behavioral Health   David B Abrams
-info already in db:  Global Issues in Social & Behavioral Health   Raymond S Niaura
-Course Already Exist:  Global Issues in Social & Behavioral Health Adding  David Abramson
-Professor Already Exist:  Erez Hatna Adding  Introduction to Agent-Based Modeling
-Course Already Exist:  Introduction to Agent-Based Modeling Adding  Joshua Epstein
-Adding:  Jack Caravanos Adding:  Global Environmental Health
-Professor Already Exist:  Alexis A Merdjanoff Adding  Qualitative & Field Methods
-Adding:  Andrea L Deierlein Adding:  Essentials of Public Health Biology
-Adding:  Jennifer L Pomeranz Adding:  Food Policy for Public Health
-Adding:  Joyce Moon Howard Adding:  Assessing Community Health Needs
-Adding:  Gary Yu Adding:  Psychometric Measurement and Analysis in Public Health Research and Practice
-Adding:  Emily S Goldmann Adding:  Perspectives In Global Mental
-Course Already Exist:  Perspectives In Global Mental Adding  Sabrina Hermosilla
-Adding:  William Rom Adding:  Climate Change and Global Public Health
-Professor Already Exist:  Jack Caravanos Adding  Environmental Health Assessments and Interventions
-Adding:  Melody Goodman Adding:  Introduction to Data Management and Statistical Computing
-info already in db:  Introduction to Data Management and Statistical Computing   Melody Goodman
-Course Already Exist:  Introduction to Data Management and Statistical Computing Adding  Rebecca A Betensky
-Adding:  Stephanie Palmer Adding:  Strategic Management
-Course Already Exist:  Strategic Management Adding  Preston Lindsay
-Adding:  Richard Alderslade Adding:  Global Health Governance and Management
-Professor Already Exist:  Andrea L Deierlein Adding  Reproductive and Pediatric Health: A Focus in Nutrition
-Adding:  Yesim Tozan Adding:  Program Planning and Evaluation
-Adding:  Shu Xu Adding:  Regression II: Categorical Data Analysis
-info already in db:  Regression II: Categorical Data Analysis   Stephanie Cook
-Adding:  Cheryl Merzel Adding:  Applied Practice Experience Seminar
-Course Already Exist:  Applied Practice Experience Seminar Adding  Andrew Goodman
-info already in db:  Applied Practice Experience Seminar   Cheryl Merzel
-Course Already Exist:  Applied Practice Experience Seminar Adding  Karyn E Faber
-Course Already Exist:  Applied Practice Experience Seminar Adding  Leconte Dill
-Adding:  Carolyn Anne Berry Adding:  Evaluating Programs and Policies
-Course Already Exist:  Evaluating Programs and Policies Adding  Rachel L Swaner
-Course Already Exist:  Evaluating Programs and Policies Adding  Jodi F Paroff
-Adding:  Christopher Patrick Dickey Adding:  Data-Driven Decision Making in Global Public Health
-Adding:  Julie Shahroudi Adding:  Continuous Quality Improvement
-Adding:  Kamyar Arasteh Adding:  Intermediate Epidemiology
-info already in db:  Intermediate Epidemiology   Kamyar Arasteh
-Adding:  Nina S Parikh Adding:  Thesis I: Practice ​and Integrative Learning Experiences
-info already in db:  Thesis I: Practice ​and Integrative Learning Experiences   Nina S Parikh
-Course Already Exist:  Thesis I: Practice ​and Integrative Learning Experiences Adding  Jennifer Cantrell
-Adding:  Christiana Coyle Adding:  Epidemiological Methods and Design
-info already in db:  Epidemiological Methods and Design   Christiana Coyle
-Adding:  Thomas Kirchner Adding:  Theories in Public Health, Practice, Policy & Research
-Adding:  Ryan R Ruff Adding:  Biostatistics for Public Health
-info already in db:  Biostatistics for Public Health   Ryan R Ruff
-Course Already Exist:  Biostatistics for Public Health Adding  Dennis Kunichoff
-info already in db:  Biostatistics for Public Health   Dennis Kunichoff
-Adding:  Niyati Parekh Adding:  Perspectives in PublicHealth: Doctoral Seminar I
-Adding:  Dorice L Vieira Adding:  Evidence-Based Public Health & Systematic Review Best Practices
-Adding:  Nancy L Van Devanter Adding:  Methods in Community Health Research
-Course Already Exist:  Methods in Community Health Research Adding  Victoria H. Raveis
-Professor Already Exist:  Staff Adding  Doctoral Advisement
-Professor Already Exist:  Claudia Maria Passos Adding  Research Ethics
-Adding:  Danielle C Ompad Adding:  Experimental Study Designs in Epidemiology
-info already in db:  Regression II: Categorical Data Analysis   Shu Xu
-info already in db:  Regression II: Categorical Data Analysis   Stephanie Cook
-info already in db:  Intermediate Epidemiology   Kamyar Arasteh
-info already in db:  Intermediate Epidemiology   Kamyar Arasteh
-Professor Already Exist:  S Matthew Liao Adding  Bioethics Practicum
-Professor Already Exist:  Thomas Kirchner Adding  Theories in Public Health Practice & Research
-Professor Already Exist:  Staff Adding  Foundations for Epidemiology and Biostatics
-Course Already Exist:  Epidemiology Adding  Farzana Kapadia
-Adding:  Danny Anthony Schieffler Adding:  Global Issues in Social and Behavioral Health
-info already in db:  Global Environmental Health   Jack Caravanos
-Professor Already Exist:  Karyn E Faber Adding  Introduction to Public Health
-Professor Already Exist:  Dorice L Vieira Adding  Global Public Health Informatics
-Course Already Exist:  Essentials of Public Health Biology Adding  Kristen Marie Gulino
-Adding:  Joanna R Pozen Adding:  Health & Human Rights
-Adding:  Robyn Gershon Adding:  Management of Public Health Disasters
-Adding:  Sally Guttmacher Adding:  Global Perspectives in Reproductive Health & Human Rights
-Adding:  Angelie Singh Adding:  Data Utilization in Public Health Practice
-Adding:  Kayode Stephen Oyegbite Adding:  Data-Driven Decision-Making in Global Public Health
-Professor Already Exist:  Christopher Patrick Dickey Adding  Results-Focused Strengthening of Health Systems in LMIC Countries
-info already in db:  Results-Focused Strengthening of Health Systems in LMIC Countries   Kayode Stephen Oyegbite
-info already in db:  Biostatistics for Public Health   Ryan R Ruff
-Adding:  Marybec Griffin Adding:  Health and Society in a Global Context
-Course Already Exist:  Health and Society in a Global Context Adding  Drew A Blasco
-Course Already Exist:  Health and Society in a Global Context Adding  Sarah Aviva Lieff
-Course Already Exist:  Health and Society in a Global Context Adding  Virginia W Chang
-Adding:  Daniel Robert Fogal Adding:  Introduction to Bioethics
-Professor Already Exist:  Shu Xu Adding  Biostatistics for Public Health
-Course Already Exist:  Biostatistics for Public Health Adding  Anthony Donoghue
-Adding:  Alison S Bateman-House Adding:  Ethics and Clinical Practice
-Course Already Exist:  Ethics and Clinical Practice Adding  Brendan Parent
-Adding:  Courtney A McKnight Adding:  Epidemiology for Global Health
-Course Already Exist:  Epidemiology for Global Health Adding  David Barnes
-Professor Already Exist:  Claudia Maria Passos Adding  Ethics and Technology
-Adding:  Diana R Silver Adding:  Health Policy in a Global World
-Course Already Exist:  Health Policy in a Global World Adding  Nana Kofi Quakyi
-Adding:  Barron H Lerner Adding:  Controversies and Debates in Public Health
-Adding:  Lori A Hoepner Adding:  Environmental Health in a Global World
-info already in db:  Environmental Health in a Global World   William Rom
-Professor Already Exist:  Adam Jared Lerner Adding  Medical Ethics
-Adding:  Julie A Avina Adding:  Undergraduate Experiential Learning in Global Public Health
-info already in db:  Undergraduate Experiential Learning in Global Public Health   Joyce Moon Howard
-Professor Already Exist:  Christopher Patrick Dickey Adding  Public Health Entrepreneurial Ventures
-Professor Already Exist:  Daniel Robert Fogal Adding  The Ethics of Reproduction
-Professor Already Exist:  Staff Adding  Independent Study
-Adding:  Jeffrey Raymond Sebo Adding:  Ethics and Animals
-Course Already Exist:  Ethics and Animals Adding  Mariana Arellano Corbello
-Adding:  David Jonathan Wolfson Adding:  Animals and Public Policy
-Course Already Exist:  Animals and Public Policy Adding  Eve Wetlaufer
-Adding:  Bruce Grant Adding:  Culture, Power, Society
-Course Already Exist:  Culture, Power, Society Adding  Andrew Robert Patrick Ashley
-Course Already Exist:  Culture, Power, Society Adding  Tierney Bridget Brown
-info already in db:  Culture, Power, Society   Tierney Bridget Brown
-info already in db:  Culture, Power, Society   Andrew Robert Patrick Ashley
-Course Already Exist:  Culture, Power, Society Adding  Parmida Mostafavi
-info already in db:  Culture, Power, Society   Parmida Mostafavi
-Adding:  Scott Alan Williams Adding:  Human Evolution
-Course Already Exist:  Human Evolution Adding  Abigail Colby
-info already in db:  Human Evolution   Abigail Colby
-Course Already Exist:  Human Evolution Adding  Audrey Mi-Young Choi
-info already in db:  Human Evolution   Audrey Mi-Young Choi
-Course Already Exist:  Human Evolution Adding  Amber Eliza Trujillo
-info already in db:  Human Evolution   Amber Eliza Trujillo
-Course Already Exist:  Human Evolution Adding  Emma Ayres Kozitzky
-info already in db:  Human Evolution   Emma Ayres Kozitzky
-Adding:  Pam Crabtree Adding:  Archaeology: Early Societies & Culture
-Course Already Exist:  Archaeology: Early Societies & Culture Adding  Allison Mary Casaly
-info already in db:  Archaeology: Early Societies & Culture   Allison Mary Casaly
-Course Already Exist:  Archaeology: Early Societies & Culture Adding  Alice Rodriguez
-info already in db:  Archaeology: Early Societies & Culture   Alice Rodriguez
-Adding:  Mel A. Maldonado-Salcedo Adding:  Global Biocultures: Anthropological Perspectives on Public Health
-Course Already Exist:  Global Biocultures: Anthropological Perspectives on Public Health Adding  Teresa de Jesus Martinez Chavez
-Adding:  Jenna Lawrence Adding:  Primate Behavior and Ecology
-Adding:  Paola Cerrito Adding:  Emerging Diseases
-Course Already Exist:  Emerging Diseases Adding  Todd Disotell
-Adding:  Jerome O Whitington Adding:  Ethnographies of Asia
-Adding:  Tejaswini Ganti Adding:  Media, Culture, and Society
-Adding:  Justin Pargeter Adding:  Prehistoric Hunters and Gatherers
-Adding:  Jesse L Wolfhagen Adding:  Early Cities and States
-Adding:  Arlene M Davila Adding:  Ethnicity & The Media
-Adding:  Esther Choo Adding:  Introduction to Forensic Anthropology
-Course Already Exist:  Introduction to Forensic Anthropology Adding  Jennifer Lila Trowbridge
-Adding:  Jayati Narain Adding:  Human Rights & Culture
-Course Already Exist:  Human Rights & Culture Adding  Paula Fernandez-Wulff
-Professor Already Exist:  Jerome O Whitington Adding  Transnationalism
-Adding:  Elan Louis Abrell Adding:  The Social Life of Food
-Adding:  Anne M Rademacher Adding:  Urban Greening Lab: New York
-Adding:  Michael C Gilsenan Adding:  Islam in the World
-Adding:  Elizabeth N Ellis Adding:  Introduction to Native American Studies
-Course Already Exist:  Introduction to Native American Studies Adding  Jane Anderson
-Adding:  Sally E Merry Adding:  Honors Research I
-Professor Already Exist:  Pam Crabtree Adding  Independent Study
-info already in db:  Independent Study   Anne M Rademacher
-Course Already Exist:  Independent Study Adding  Terry Harrison
-info already in db:  Independent Study   Emily S Goldmann
-Course Already Exist:  Independent Study Adding  Elayne Mary Oliphant
-info already in db:  Independent Study   Bruce Grant
-info already in db:  Independent Study   Scott Alan Williams
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-info already in db:  Independent Study   Staff
-Adding:  Carol H Krinsky Adding:  History of Western Art I
-info already in db:  History of Western Art I   Carol H Krinsky
-info already in db:  History of Western Art I   Carol H Krinsky
-Course Already Exist:  History of Western Art I Adding  Alexa Sue Amore
-info already in db:  History of Western Art I   Alexa Sue Amore
-Course Already Exist:  History of Western Art I Adding  Rebecca Ann Salem
-info already in db:  History of Western Art I   Rebecca Ann Salem
-Adding:  Kenneth E Silver Adding:  History of Western Art II
-info already in db:  History of Western Art II   Kenneth E Silver
-info already in db:  History of Western Art II   Kenneth E Silver
-Course Already Exist:  History of Western Art II Adding  Francesca Ferrari
-info already in db:  History of Western Art II   Francesca Ferrari
-Course Already Exist:  History of Western Art II Adding  Jennifer G Buonocore
-info already in db:  History of Western Art II   Jennifer G Buonocore
-Adding:  Abhilasha Vedantam Isaac Adding:  Ancient Art
-Course Already Exist:  Ancient Art Adding  John N Hopkins
-Adding:  Cristina Aldrich Adding:  Renaissance Art
-Course Already Exist:  Renaissance Art Adding  Louise Rice
-Adding:  Ami Imai Brett Adding:  Modern Art
-Course Already Exist:  Modern Art Adding  Julia E Robinson
-Course Already Exist:  Modern Art Adding  Megan Anne Kincaid
-Professor Already Exist:  John N Hopkins Adding  Roman Architecture
-Professor Already Exist:  Carol H Krinsky Adding  Medieval Architecture
-Adding:  Kathryn Ann Smith Adding:  Sp Tpcs Medieval Art:
-Adding:  Dennis V Geronimus Adding:  Sp Tpcs Renaissance & Baroque Art:
-Adding:  Christopher Wood Adding:  Sp Tpcs Renaissance & Baroque Art:
-Adding:  Samuel Corey Allen Adding:  Sp Tpcs Modern Art:
-Course Already Exist:  Sp Tpcs Modern Art: Adding  Shelley Rice
-Adding:  Meredith S Martin Adding:  Sp Tpcs Modern Art:
-Professor Already Exist:  Julia E Robinson Adding  Sp Tpcs Modern Art:
-Adding:  Eana Kim Adding:  Sp Tpcs Modern Art:
-Course Already Exist:  Sp Tpcs Modern Art: Adding  Joseph Low Karmel
-Adding:  Lyla Marie Halsted Adding:  East Asian Art I: China, Korea, Japan to 1000 Ce
-Course Already Exist:  East Asian Art I: China, Korea, Japan to 1000 Ce Adding  Michele Alberto Matteini
-Adding:  Dipti Khera Adding:  South Asian Art I: Indus Valley to 1200
-Adding:  Nadia Ali Adding:  Art in The Islamic World II: Mongols to Modernism
-Adding:  Sandy Prita Meier Adding:  Arts of Africa
-Course Already Exist:  Arts of Africa Adding  Scarlett Strauss
-Adding:  Grace Walsh Adding:  History of Architecture: Antiquity to Present
-Course Already Exist:  History of Architecture: Antiquity to Present Adding  Jonathan Hume Ritter
-info already in db:  History of Architecture: Antiquity to Present   Grace Walsh
-info already in db:  History of Architecture: Antiquity to Present   Jonathan Hume Ritter
-Adding:  Theodore Liebman Adding:  Sp Tpcs in Urban Design & Architecture:
-Adding:  Lynden B Miller Adding:  Sp Tpcs in Urban Design & Architecture:
-Adding:  Jennifer Bolstad Adding:  Sp Tpcs in Urban Design & Architecture:
-Professor Already Exist:  Jonathan Hume Ritter Adding  Sp Tpcs in Urban Design & Architecture:
-Adding:  Maria Ibanez Adding:  Sp Tpcs in Urban Design & Architecture:
-Course Already Exist:  Sp Tpcs in Urban Design & Architecture: Adding  Todd Rouhe
-Adding:  Yetsuh Frank Adding:  Sp Tpcs in Urban Design & Architecture:
-Adding:  Desiree S Mitton Adding:  Shaping The Urban Environment
-Course Already Exist:  Shaping The Urban Environment Adding  Mosette Broderick
-info already in db:  Shaping The Urban Environment   Desiree S Mitton
-info already in db:  Shaping The Urban Environment   Mosette Broderick
-info already in db:  Shaping The Urban Environment   Desiree S Mitton
-info already in db:  Shaping The Urban Environment   Mosette Broderick
-Adding:  James D Morgan Adding:  Decision-Making & Urban Design
-Adding:  Austin Sakong Adding:  Architecture in Context
-Course Already Exist:  Architecture in Context Adding  Luis A Bustamante
-Adding:  Holly B Haff Adding:  Urban Design: Infrastructure
-Adding:  Stephen M Raphael Adding:  Urban Design & The Law
-Professor Already Exist:  Kenneth E Silver Adding  Advanced Seminar
-Professor Already Exist:  Shelley Rice Adding  Advanced Seminar
-Course Already Exist:  Advanced Seminar Adding  Ulrich C Baer
-Professor Already Exist:  Louise Rice Adding  Advanced Seminar
-Professor Already Exist:  Kathryn Ann Smith Adding  Advanced Seminar
-Professor Already Exist:  Dipti Khera Adding  Advanced Seminar
-Professor Already Exist:  James D Morgan Adding  Senior Honors Thesis I
-Professor Already Exist:  Meredith S Martin Adding  Independent Studies
-info already in db:  Independent Studies   Meredith S Martin
-Adding:  Miriam M Basilio Adding:  Special Topics:
-Adding:  Joan Breton Connelly Adding:  Special Topics:
-Adding:  Leila A Amineddoleh Adding:  Special Topics:
-Professor Already Exist:  Joseph Low Karmel Adding  Special Topics:
-Adding:  Ignatius P Tan Adding:  Practical Human Physiology
-Adding:  David H A Fitch Adding:  Principles of Biology I
-Course Already Exist:  Principles of Biology I Adding  Stephen J Small
-Course Already Exist:  Principles of Biology I Adding  Natasha Christine Koussa
-Course Already Exist:  Principles of Biology I Adding  Gizem Guzelsoy
-Course Already Exist:  Principles of Biology I Adding  Amanda Ferreira
-Course Already Exist:  Principles of Biology I Adding  Cassandra Buzby
-info already in db:  Principles of Biology I   Natasha Christine Koussa
-info already in db:  Principles of Biology I   Cassandra Buzby
-Course Already Exist:  Principles of Biology I Adding  Xinyi Guo
-info already in db:  Principles of Biology I   Xinyi Guo
-Course Already Exist:  Principles of Biology I Adding  Krysten Harvey
-info already in db:  Principles of Biology I   Gizem Guzelsoy
-info already in db:  Principles of Biology I   Amanda Ferreira
-Course Already Exist:  Principles of Biology I Adding  Federica Sartori
-info already in db:  Principles of Biology I   Federica Sartori
-Course Already Exist:  Principles of Biology I Adding  Marissa R Knoll
-Course Already Exist:  Principles of Biology I Adding  Woo Jin Kim
-info already in db:  Principles of Biology I   Woo Jin Kim
-Course Already Exist:  Principles of Biology I Adding  Yen-Chung Chen
-info already in db:  Principles of Biology I   Yen-Chung Chen
-info already in db:  Principles of Biology I   Amanda Ferreira
-Course Already Exist:  Principles of Biology I Adding  Daniel Sultanov
-info already in db:  Principles of Biology I   Marissa R Knoll
-info already in db:  Principles of Biology I   Natasha Christine Koussa
-info already in db:  Principles of Biology I   Daniel Sultanov
-info already in db:  Principles of Biology I   Krysten Harvey
-Adding:  Katie Schneider Paolantonio Adding:  Ecological Field Methods
-Adding:  Joseph Koussa Adding:  Molecular and Cell Biology I
-Course Already Exist:  Molecular and Cell Biology I Adding  Mark L Siegal
-Course Already Exist:  Molecular and Cell Biology I Adding  Sevinc Ercan
-Course Already Exist:  Molecular and Cell Biology I Adding  Temistocles Molinar
-info already in db:  Molecular and Cell Biology I   Joseph Koussa
-info already in db:  Molecular and Cell Biology I   Joseph Koussa
-Course Already Exist:  Molecular and Cell Biology I Adding  Peter H Whitney
-Course Already Exist:  Molecular and Cell Biology I Adding  Logan Schachtner
-info already in db:  Molecular and Cell Biology I   Logan Schachtner
-info already in db:  Molecular and Cell Biology I   Peter H Whitney
-info already in db:  Molecular and Cell Biology I   Temistocles Molinar
-Course Already Exist:  Molecular and Cell Biology I Adding  Joseph Osmundson
-info already in db:  Molecular and Cell Biology I   Joseph Osmundson
-Adding:  Nataliya V Galifianakis Adding:  Principles of Animal Physiology
-Adding:  Kenneth David Birnbaum Adding:  Developmental Biology
-Course Already Exist:  Developmental Biology Adding  Lionel A Christiaen
-Adding:  Christine A Rushlow Adding:  Genetics
-Course Already Exist:  Genetics Adding  Porfirio J Fernandez
-info already in db:  Genetics   Porfirio J Fernandez
-Course Already Exist:  Genetics Adding  David Sebastian Jimenez
-info already in db:  Genetics   David Sebastian Jimenez
+
+7735
+[ { name: 'Michelle Mary Dyke',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Michelle Mary Dyke Adding:  Advanced Introduction to Bioethics undefined
+
+7818
+[ { name: 'Claudia Maria Passos',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Claudia Maria Passos Adding:  Research Ethics: undefined
+
+7812
+[ { name: 'Adam Jared Lerner',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Adam Jared Lerner Adding:  Justice in Health & Healthcare undefined
+
+7737
+[ { name: 'Alexis A Merdjanoff',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Alexis A Merdjanoff Adding:  Independent Study undefined
+
+7738
+[ { name: 'Erez Hatna',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Independent Study undefined Adding  Erez Hatna
+
+7739
+[ { name: 'Rudolf Knippenberg',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Independent Study undefined Adding  Rudolf Knippenberg
+
+7740
+[ { name: 'Staff', school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Independent Study undefined Adding  Staff
+
+7741
+[ { name: 'Staff', school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Independent Study undefined   Staff
+
+7762
+[ { name: 'Staff', school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Independent Study undefined   Staff
+
+7750
+[ { name: 'Katherine M O\'Regan',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Katherine M O'Regan Adding:  Microeconomics for Public Management, Planning & Policy Analysis undefined
+
+7751
+[ { name: 'Sewin Chan',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Sewin Chan
+
+7752
+[ { name: 'Katherine M O\'Regan',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis undefined   Katherine M O'Regan
+
+7753
+[ { name: 'Sewin Chan',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis undefined   Sewin Chan
+
+7787
+[ { name: 'Erica Hoyt Dixon',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Erica Hoyt Dixon
+
+7788
+[ { name: 'Pisei Chea',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Pisei Chea
+
+7789
+[ { name: 'Rebecca Hamburger',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Rebecca Hamburger
+
+7790
+[ { name: 'Glenda Kee',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Glenda Kee
+
+7791
+[ { name: 'Matthew J Looney',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Matthew J Looney
+
+7792
+[ { name: 'Matthew J Looney',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Microeconomics for Public Management, Planning & Policy Analysis undefined   Matthew J Looney
+
+7816
+[ { name: 'Sarah Aita',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Microeconomics for Public Management, Planning & Policy Analysis undefined Adding  Sarah Aita
+
+20486
+[ { name: 'S Matthew Liao',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  S Matthew Liao Adding:  Moral Indeterminacy undefined
+
+7767
+[ { name: 'Amelia Boehme',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Amelia Boehme Adding:  Epidemiology undefined
+
+7768
+[ { name: 'Donovan Jones',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Donovan Jones
+
+7769
+[ { name: 'Paul R Brown',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Paul R Brown
+
+7770
+[ { name: 'Robert Vincent Jones',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Robert Vincent Jones
+
+7777
+[ { name: 'John W Meade',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  John W Meade
+
+7802
+[ { name: 'Samuel Wolfe',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Samuel Wolfe
+
+7803
+[ { name: 'Oluwatomi Hannah Oluwasanmi',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Oluwatomi Hannah Oluwasanmi
+
+7820
+[ { name: 'Amelia Boehme',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Epidemiology undefined   Amelia Boehme
+
+7821
+[ { name: 'Donovan Jones',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Epidemiology undefined   Donovan Jones
+
+7822
+[ { name: 'Jay S Bala',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Jay S Bala
+
+7823
+[ { name: 'Oluwatomi Hannah Oluwasanmi',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Epidemiology undefined   Oluwatomi Hannah Oluwasanmi
+
+7854
+[ { name: 'Michael S West',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Michael S West Adding:  Financial Mgmt for Public, Nonprofit, and Health Organizations undefined
+
+23955
+[ { name: 'Anubhav Gupta',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations undefined Adding  Anubhav Gupta
+
+7855
+[ { name: 'Chai Francis Jindasurat',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Financial Mgmt for Public, Nonprofit, and Health Organizations undefined Adding  Chai Francis Jindasurat
+
+7786
+[ { name: 'Joyce A O\'Connor',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Joyce A O'Connor Adding:  Introduction to Principles of Nutrition in Public Health undefined
+
+7840
+[ { name: 'Jo Ivey Boufford',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Jo Ivey Boufford Adding:  Foundations of Global Health undefined
+
+7743
+[ { name: 'Stephanie Cook',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Stephanie Cook Adding:  Global Issues in Social & Behavioral Health undefined
+
+7774
+[ { name: 'David B Abrams',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Raymond S Niaura',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Global Issues in Social & Behavioral Health undefined Adding  David B Abrams
+Course Already Exist:  Global Issues in Social & Behavioral Health undefined Adding  Raymond S Niaura
+
+7825
+[ { name: 'Alexis A Merdjanoff',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Global Issues in Social & Behavioral Health undefined   Alexis A Merdjanoff
+
+7826
+[ { name: 'David B Abrams',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Raymond S Niaura',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Global Issues in Social & Behavioral Health undefined   David B Abrams
+info already in db:  Global Issues in Social & Behavioral Health undefined   Raymond S Niaura
+
+7827
+[ { name: 'David Abramson',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Global Issues in Social & Behavioral Health undefined Adding  David Abramson
+
+7843
+[ { name: 'Erez Hatna',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Joshua Epstein',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Erez Hatna Adding  Introduction to Agent-Based Modeling undefined
+Course Already Exist:  Introduction to Agent-Based Modeling undefined Adding  Joshua Epstein
+
+7831
+[ { name: 'Jack Caravanos',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Jack Caravanos Adding:  Global Environmental Health undefined
+
+7783
+[ { name: 'Alexis A Merdjanoff',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Alexis A Merdjanoff Adding  Qualitative & Field Methods undefined
+
+7776
+[ { name: 'Andrea L Deierlein',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Andrea L Deierlein Adding:  Essentials of Public Health Biology undefined
+
+7779
+[ { name: 'Jennifer L Pomeranz',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Jennifer L Pomeranz Adding:  Food Policy for Public Health undefined
+
+7755
+[ { name: 'Joyce Moon Howard',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Joyce Moon Howard Adding:  Assessing Community Health Needs undefined
+
+7841
+[ { name: 'Gary Yu',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Gary Yu Adding:  Psychometric Measurement and Analysis in Public Health Research and Practice undefined
+
+7744
+[ { name: 'Emily S Goldmann',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Sabrina Hermosilla',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Emily S Goldmann Adding:  Perspectives In Global Mental undefined
+Course Already Exist:  Perspectives In Global Mental undefined Adding  Sabrina Hermosilla
+
+7846
+[ { name: 'William Rom',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  William Rom Adding:  Climate Change and Global Public Health undefined
+
+20090
+[ { name: 'Jack Caravanos',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Jack Caravanos Adding  Environmental Health Assessments and Interventions undefined
+
+20860
+[ { name: 'Melody Goodman',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Melody Goodman Adding:  Introduction to Data Management and Statistical Computing undefined
+
+25296
+[ { name: 'Melody Goodman',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Rebecca A Betensky',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Introduction to Data Management and Statistical Computing undefined   Melody Goodman
+Course Already Exist:  Introduction to Data Management and Statistical Computing undefined Adding  Rebecca A Betensky
+
+7814
+[ { name: 'Stephanie Palmer',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Stephanie Palmer Adding:  Strategic Management undefined
+
+7832
+[ { name: 'Preston Lindsay',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Strategic Management undefined Adding  Preston Lindsay
+
+7745
+[ { name: 'Richard Alderslade',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Richard Alderslade Adding:  Global Health Governance and Management undefined
+
+20237
+[ { name: 'Andrea L Deierlein',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Andrea L Deierlein Adding  Reproductive and Pediatric Health: A Focus in Nutrition undefined
+
+7771
+[ { name: 'Yesim Tozan',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Yesim Tozan Adding:  Program Planning and Evaluation undefined
+
+20461
+[ { name: 'Shu Xu',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Shu Xu Adding:  Regression II: Categorical Data Analysis undefined
+
+20462
+[ { name: 'Stephanie Cook',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Regression II: Categorical Data Analysis undefined   Stephanie Cook
+
+7817
+[ { name: 'Cheryl Merzel',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Cheryl Merzel Adding:  Applied Practice Experience Seminar undefined
+
+7833
+[ { name: 'Andrew Goodman',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Applied Practice Experience Seminar undefined Adding  Andrew Goodman
+
+7834
+[ { name: 'Cheryl Merzel',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Applied Practice Experience Seminar undefined   Cheryl Merzel
+
+7835
+[ { name: 'Karyn E Faber',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Applied Practice Experience Seminar undefined Adding  Karyn E Faber
+
+20820
+[ { name: 'Leconte Dill',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Applied Practice Experience Seminar undefined Adding  Leconte Dill
+
+7746
+[ { name: 'Carolyn Anne Berry',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Carolyn Anne Berry Adding:  Evaluating Programs and Policies undefined
+
+7754
+[ { name: 'Rachel L Swaner',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Evaluating Programs and Policies undefined Adding  Rachel L Swaner
+
+7747
+[ { name: 'Jodi F Paroff',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Evaluating Programs and Policies undefined Adding  Jodi F Paroff
+
+20893
+[ { name: 'Christopher Patrick Dickey',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Christopher Patrick Dickey Adding:  Data-Driven Decision Making in Global Public Health undefined
+
+7848
+[ { name: 'Julie Shahroudi',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Julie Shahroudi Adding:  Continuous Quality Improvement undefined
+
+7810
+[ { name: 'Kamyar Arasteh',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Kamyar Arasteh Adding:  Intermediate Epidemiology undefined
+
+7811
+[ { name: 'Kamyar Arasteh',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Intermediate Epidemiology undefined   Kamyar Arasteh
+
+7773
+[ { name: 'Nina S Parikh',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Nina S Parikh Adding:  Thesis I: Practice ​and Integrative Learning Experiences undefined
+
+7795
+[ { name: 'Nina S Parikh',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Thesis I: Practice ​and Integrative Learning Experiences undefined   Nina S Parikh
+
+7819
+[ { name: 'Jennifer Cantrell',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Thesis I: Practice ​and Integrative Learning Experiences undefined Adding  Jennifer Cantrell
+
+7772
+[ { name: 'Christiana Coyle',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Christiana Coyle Adding:  Epidemiological Methods and Design undefined
+
+20091
+[ { name: 'Christiana Coyle',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Epidemiological Methods and Design undefined   Christiana Coyle
+
+7781
+[ { name: 'Thomas Kirchner',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Thomas Kirchner Adding:  Theories in Public Health, Practice, Policy & Research undefined
+
+7780
+[ { name: 'Ryan R Ruff',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Ryan R Ruff Adding:  Biostatistics for Public Health undefined
+
+7838
+[ { name: 'Ryan R Ruff',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Biostatistics for Public Health undefined   Ryan R Ruff
+
+7839
+[ { name: 'Dennis Kunichoff',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Biostatistics for Public Health undefined Adding  Dennis Kunichoff
+
+20079
+[ { name: 'Dennis Kunichoff',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Biostatistics for Public Health undefined   Dennis Kunichoff
+
+7757
+[ { name: 'Niyati Parekh',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Niyati Parekh Adding:  Perspectives in PublicHealth: Doctoral Seminar I undefined
+
+24543
+[ { name: 'Dorice L Vieira',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Dorice L Vieira Adding:  Evidence-Based Public Health & Systematic Review Best Practices undefined
+
+7756
+[ { name: 'Nancy L Van Devanter',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Victoria H. Raveis',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Nancy L Van Devanter Adding:  Methods in Community Health Research undefined
+Course Already Exist:  Methods in Community Health Research undefined Adding  Victoria H. Raveis
+
+7775
+[ { name: 'Staff', school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Staff Adding  Doctoral Advisement undefined
+
+7850
+[ { name: 'Claudia Maria Passos',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Claudia Maria Passos Adding  Research Ethics undefined
+
+20095
+[ { name: 'Danielle C Ompad',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Danielle C Ompad Adding:  Experimental Study Designs in Epidemiology undefined
+
+20518
+[ { name: 'Shu Xu',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Regression II: Categorical Data Analysis undefined   Shu Xu
+
+20519
+[ { name: 'Stephanie Cook',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Regression II: Categorical Data Analysis undefined   Stephanie Cook
+
+23655
+[ { name: 'Kamyar Arasteh',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Intermediate Epidemiology undefined   Kamyar Arasteh
+
+23656
+[ { name: 'Kamyar Arasteh',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Intermediate Epidemiology undefined   Kamyar Arasteh
+
+7736
+[ { name: 'S Matthew Liao',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  S Matthew Liao Adding  Bioethics Practicum undefined
+
+23658
+[ { name: 'Thomas Kirchner',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Thomas Kirchner Adding  Theories in Public Health Practice & Research undefined
+
+23599
+[ { name: 'Staff', school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Staff Adding  Foundations for Epidemiology and Biostatics undefined
+
+7758
+[ { name: 'Farzana Kapadia',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Epidemiology undefined Adding  Farzana Kapadia
+
+7759
+[ { name: 'Danny Anthony Schieffler',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Danny Anthony Schieffler Adding:  Global Issues in Social and Behavioral Health undefined
+
+7765
+[ { name: 'Jack Caravanos',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Global Environmental Health undefined   Jack Caravanos
+
+20102
+[ { name: 'Karyn E Faber',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Karyn E Faber Adding  Introduction to Public Health undefined
+
+20094
+[ { name: 'Dorice L Vieira',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Dorice L Vieira Adding  Global Public Health Informatics undefined
+
+7784
+[ { name: 'Kristen Marie Gulino',
+    school: 'Coll of Global Public Health - Grad' } ]
+Course Already Exist:  Essentials of Public Health Biology undefined Adding  Kristen Marie Gulino
+
+20333
+[ { name: 'Joanna R Pozen',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Joanna R Pozen Adding:  Health & Human Rights undefined
+
+21447
+[ { name: 'Robyn Gershon',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Robyn Gershon Adding:  Management of Public Health Disasters undefined
+
+20320
+[ { name: 'Sally Guttmacher',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Sally Guttmacher Adding:  Global Perspectives in Reproductive Health & Human Rights undefined
+
+7782
+[ { name: 'Angelie Singh',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Angelie Singh Adding:  Data Utilization in Public Health Practice undefined
+
+7844
+[ { name: 'Kayode Stephen Oyegbite',
+    school: 'Coll of Global Public Health - Grad' } ]
+Adding:  Kayode Stephen Oyegbite Adding:  Data-Driven Decision-Making in Global Public Health undefined
+
+7809
+[ { name: 'Christopher Patrick Dickey',
+    school: 'Coll of Global Public Health - Grad' },
+  { name: 'Kayode Stephen Oyegbite',
+    school: 'Coll of Global Public Health - Grad' } ]
+Professor Already Exist:  Christopher Patrick Dickey Adding  Results-Focused Strengthening of Health Systems in LMIC Countries undefined
+info already in db:  Results-Focused Strengthening of Health Systems in LMIC Countries undefined   Kayode Stephen Oyegbite
+
+7766
+[ { name: 'Ryan R Ruff',
+    school: 'Coll of Global Public Health - Grad' } ]
+info already in db:  Biostatistics for Public Health undefined   Ryan R Ruff
+
+17215
+[ { name: 'Marybec Griffin',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Marybec Griffin Adding:  Health and Society in a Global Context undefined
+
+17216
+[ { name: 'Drew A Blasco',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Health and Society in a Global Context undefined Adding  Drew A Blasco
+
+17217
+[ { name: 'Sarah Aviva Lieff',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Health and Society in a Global Context undefined Adding  Sarah Aviva Lieff
+
+17230
+[ { name: 'Virginia W Chang',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Health and Society in a Global Context undefined Adding  Virginia W Chang
+
+17233
+[ { name: 'Daniel Robert Fogal',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Daniel Robert Fogal Adding:  Introduction to Bioethics undefined
+
+17218
+[ { name: 'Shu Xu', school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Shu Xu Adding  Biostatistics for Public Health undefined
+
+17219
+[ { name: 'Anthony Donoghue',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Biostatistics for Public Health undefined Adding  Anthony Donoghue
+
+20136
+[ { name: 'Alison S Bateman-House',
+    school: 'Coll of Global Public Health-UGRD' },
+  { name: 'Brendan Parent',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Alison S Bateman-House Adding:  Ethics and Clinical Practice undefined
+Course Already Exist:  Ethics and Clinical Practice undefined Adding  Brendan Parent
+
+17220
+[ { name: 'Courtney A McKnight',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Courtney A McKnight Adding:  Epidemiology for Global Health undefined
+
+17221
+[ { name: 'David Barnes',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Epidemiology for Global Health undefined Adding  David Barnes
+
+20135
+[ { name: 'Claudia Maria Passos',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Claudia Maria Passos Adding  Ethics and Technology undefined
+
+17222
+[ { name: 'Diana R Silver',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Diana R Silver Adding:  Health Policy in a Global World undefined
+
+17232
+[ { name: 'Nana Kofi Quakyi',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Course Already Exist:  Health Policy in a Global World undefined Adding  Nana Kofi Quakyi
+
+17227
+[ { name: 'Barron H Lerner',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Barron H Lerner Adding:  Controversies and Debates in Public Health undefined
+
+17223
+[ { name: 'Lori A Hoepner',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Lori A Hoepner Adding:  Environmental Health in a Global World undefined
+
+17224
+[ { name: 'William Rom',
+    school: 'Coll of Global Public Health-UGRD' } ]
+info already in db:  Environmental Health in a Global World undefined   William Rom
+
+19731
+[ { name: 'Adam Jared Lerner',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Adam Jared Lerner Adding  Medical Ethics undefined
+
+17225
+[ { name: 'Julie A Avina',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Adding:  Julie A Avina Adding:  Undergraduate Experiential Learning in Global Public Health undefined
+
+17228
+[ { name: 'Joyce Moon Howard',
+    school: 'Coll of Global Public Health-UGRD' } ]
+info already in db:  Undergraduate Experiential Learning in Global Public Health undefined   Joyce Moon Howard
+
+17226
+[ { name: 'Christopher Patrick Dickey',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Christopher Patrick Dickey Adding  Public Health Entrepreneurial Ventures undefined
+
+17234
+[ { name: 'Daniel Robert Fogal',
+    school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Daniel Robert Fogal Adding  The Ethics of Reproduction undefined
+
+17229
+[ { name: 'Staff', school: 'Coll of Global Public Health-UGRD' } ]
+Professor Already Exist:  Staff Adding  Independent Study undefined
+
+9225
+[ { name: 'Jeffrey Raymond Sebo',
+    school: 'College of Arts and Science' },
+  { name: 'Mariana Arellano Corbello',
+    school: 'College of Arts and Science' } ]
+Adding:  Jeffrey Raymond Sebo Adding:  Ethics and Animals undefined
+Course Already Exist:  Ethics and Animals undefined Adding  Mariana Arellano Corbello
+
+10425
+[ { name: 'David Jonathan Wolfson',
+    school: 'College of Arts and Science' },
+  { name: 'Eve Wetlaufer', school: 'College of Arts and Science' } ]
+Adding:  David Jonathan Wolfson Adding:  Animals and Public Policy undefined
+Course Already Exist:  Animals and Public Policy undefined Adding  Eve Wetlaufer
+
+7893
+[ { name: 'Bruce Grant', school: 'College of Arts and Science' } ]
+Adding:  Bruce Grant Adding:  Culture, Power, Society undefined
+
+7894
+[ { name: 'Andrew Robert Patrick Ashley',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Culture, Power, Society undefined Adding  Andrew Robert Patrick Ashley
+
+7895
+[ { name: 'Tierney Bridget Brown',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Culture, Power, Society undefined Adding  Tierney Bridget Brown
+
+7896
+[ { name: 'Tierney Bridget Brown',
+    school: 'College of Arts and Science' } ]
+info already in db:  Culture, Power, Society undefined   Tierney Bridget Brown
+
+7897
+[ { name: 'Andrew Robert Patrick Ashley',
+    school: 'College of Arts and Science' } ]
+info already in db:  Culture, Power, Society undefined   Andrew Robert Patrick Ashley
+
+9858
+[ { name: 'Parmida Mostafavi',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Culture, Power, Society undefined Adding  Parmida Mostafavi
+
+9859
+[ { name: 'Parmida Mostafavi',
+    school: 'College of Arts and Science' } ]
+info already in db:  Culture, Power, Society undefined   Parmida Mostafavi
+
+7898
+[ { name: 'Scott Alan Williams',
+    school: 'College of Arts and Science' } ]
+Adding:  Scott Alan Williams Adding:  Human Evolution undefined
+
+7906
+[ { name: 'Abigail Colby', school: 'College of Arts and Science' } ]
+Course Already Exist:  Human Evolution undefined Adding  Abigail Colby
+
+7899
+[ { name: 'Abigail Colby', school: 'College of Arts and Science' } ]
+info already in db:  Human Evolution undefined   Abigail Colby
+
+7900
+[ { name: 'Audrey Mi-Young Choi',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Human Evolution undefined Adding  Audrey Mi-Young Choi
+
+7901
+[ { name: 'Audrey Mi-Young Choi',
+    school: 'College of Arts and Science' } ]
+info already in db:  Human Evolution undefined   Audrey Mi-Young Choi
+
+7902
+[ { name: 'Amber Eliza Trujillo',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Human Evolution undefined Adding  Amber Eliza Trujillo
+
+7903
+[ { name: 'Amber Eliza Trujillo',
+    school: 'College of Arts and Science' } ]
+info already in db:  Human Evolution undefined   Amber Eliza Trujillo
+
+7904
+[ { name: 'Emma Ayres Kozitzky',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Human Evolution undefined Adding  Emma Ayres Kozitzky
+
+7905
+[ { name: 'Emma Ayres Kozitzky',
+    school: 'College of Arts and Science' } ]
+info already in db:  Human Evolution undefined   Emma Ayres Kozitzky
+
+7907
+[ { name: 'Pam Crabtree', school: 'College of Arts and Science' } ]
+Adding:  Pam Crabtree Adding:  Archaeology: Early Societies & Culture undefined
+
+7908
+[ { name: 'Allison Mary Casaly',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Archaeology: Early Societies & Culture undefined Adding  Allison Mary Casaly
+
+7909
+[ { name: 'Allison Mary Casaly',
+    school: 'College of Arts and Science' } ]
+info already in db:  Archaeology: Early Societies & Culture undefined   Allison Mary Casaly
+
+7910
+[ { name: 'Alice Rodriguez',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Archaeology: Early Societies & Culture undefined Adding  Alice Rodriguez
+
+7911
+[ { name: 'Alice Rodriguez',
+    school: 'College of Arts and Science' } ]
+info already in db:  Archaeology: Early Societies & Culture undefined   Alice Rodriguez
+
+21488
+[ { name: 'Mel A. Maldonado-Salcedo',
+    school: 'College of Arts and Science' },
+  { name: 'Teresa de Jesus Martinez Chavez',
+    school: 'College of Arts and Science' } ]
+Adding:  Mel A. Maldonado-Salcedo Adding:  Global Biocultures: Anthropological Perspectives on Public Health undefined
+Course Already Exist:  Global Biocultures: Anthropological Perspectives on Public Health undefined Adding  Teresa de Jesus Martinez Chavez
+
+19128
+[ { name: 'Jenna Lawrence',
+    school: 'College of Arts and Science' } ]
+Adding:  Jenna Lawrence Adding:  Primate Behavior and Ecology undefined
+
+19131
+[ { name: 'Paola Cerrito', school: 'College of Arts and Science' },
+  { name: 'Todd Disotell', school: 'College of Arts and Science' } ]
+Adding:  Paola Cerrito Adding:  Emerging Diseases undefined
+Course Already Exist:  Emerging Diseases undefined Adding  Todd Disotell
+
+19133
+[ { name: 'Jerome O Whitington',
+    school: 'College of Arts and Science' } ]
+Adding:  Jerome O Whitington Adding:  Ethnographies of Asia undefined
+
+19130
+[ { name: 'Tejaswini Ganti',
+    school: 'College of Arts and Science' } ]
+Adding:  Tejaswini Ganti Adding:  Media, Culture, and Society undefined
+
+19127
+[ { name: 'Justin Pargeter',
+    school: 'College of Arts and Science' } ]
+Adding:  Justin Pargeter Adding:  Prehistoric Hunters and Gatherers undefined
+
+19132
+[ { name: 'Jesse L Wolfhagen',
+    school: 'College of Arts and Science' } ]
+Adding:  Jesse L Wolfhagen Adding:  Early Cities and States undefined
+
+22918
+[ { name: 'Arlene M Davila',
+    school: 'College of Arts and Science' } ]
+Adding:  Arlene M Davila Adding:  Ethnicity & The Media undefined
+
+19129
+[ { name: 'Esther Choo', school: 'College of Arts and Science' },
+  { name: 'Jennifer Lila Trowbridge',
+    school: 'College of Arts and Science' } ]
+Adding:  Esther Choo Adding:  Introduction to Forensic Anthropology undefined
+Course Already Exist:  Introduction to Forensic Anthropology undefined Adding  Jennifer Lila Trowbridge
+
+24591
+[ { name: 'Jayati Narain', school: 'College of Arts and Science' },
+  { name: 'Paula Fernandez-Wulff',
+    school: 'College of Arts and Science' } ]
+Adding:  Jayati Narain Adding:  Human Rights & Culture undefined
+Course Already Exist:  Human Rights & Culture undefined Adding  Paula Fernandez-Wulff
+
+10051
+[ { name: 'Jerome O Whitington',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Jerome O Whitington Adding  Transnationalism undefined
+
+10052
+[ { name: 'Elan Louis Abrell',
+    school: 'College of Arts and Science' } ]
+Adding:  Elan Louis Abrell Adding:  The Social Life of Food undefined
+
+19920
+[ { name: 'Anne M Rademacher',
+    school: 'College of Arts and Science' } ]
+Adding:  Anne M Rademacher Adding:  Urban Greening Lab: New York undefined
+
+19966
+[ { name: 'Michael C Gilsenan',
+    school: 'College of Arts and Science' } ]
+Adding:  Michael C Gilsenan Adding:  Islam in the World undefined
+
+19221
+[ { name: 'Elizabeth N Ellis',
+    school: 'College of Arts and Science' },
+  { name: 'Jane Anderson', school: 'College of Arts and Science' } ]
+Adding:  Elizabeth N Ellis Adding:  Introduction to Native American Studies undefined
+Course Already Exist:  Introduction to Native American Studies undefined Adding  Jane Anderson
+
+7912
+[ { name: 'Sally E Merry', school: 'College of Arts and Science' } ]
+Adding:  Sally E Merry Adding:  Honors Research I undefined
+
+7913
+[ { name: 'Pam Crabtree', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Pam Crabtree Adding  Independent Study undefined
+
+7914
+[ { name: 'Anne M Rademacher',
+    school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Anne M Rademacher
+
+7915
+[ { name: 'Terry Harrison',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Independent Study undefined Adding  Terry Harrison
+
+7916
+[ { name: 'Emily S Goldmann',
+    school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Emily S Goldmann
+
+10810
+[ { name: 'Elayne Mary Oliphant',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Independent Study undefined Adding  Elayne Mary Oliphant
+
+10811
+[ { name: 'Bruce Grant', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Bruce Grant
+
+10817
+[ { name: 'Scott Alan Williams',
+    school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Scott Alan Williams
+
+10818
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+7917
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+7918
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+10819
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+10820
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+10822
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+10823
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+10824
+[ { name: 'Staff', school: 'College of Arts and Science' } ]
+info already in db:  Independent Study undefined   Staff
+
+9409
+[ { name: 'Carol H Krinsky',
+    school: 'College of Arts and Science' } ]
+Adding:  Carol H Krinsky Adding:  History of Western Art I undefined
+
+9411
+[ { name: 'Carol H Krinsky',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art I undefined   Carol H Krinsky
+
+9410
+[ { name: 'Carol H Krinsky',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art I undefined   Carol H Krinsky
+
+9412
+[ { name: 'Alexa Sue Amore',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  History of Western Art I undefined Adding  Alexa Sue Amore
+
+9413
+[ { name: 'Alexa Sue Amore',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art I undefined   Alexa Sue Amore
+
+9414
+[ { name: 'Rebecca Ann Salem',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  History of Western Art I undefined Adding  Rebecca Ann Salem
+
+9415
+[ { name: 'Rebecca Ann Salem',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art I undefined   Rebecca Ann Salem
+
+9416
+[ { name: 'Kenneth E Silver',
+    school: 'College of Arts and Science' } ]
+Adding:  Kenneth E Silver Adding:  History of Western Art II undefined
+
+9417
+[ { name: 'Kenneth E Silver',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art II undefined   Kenneth E Silver
+
+9418
+[ { name: 'Kenneth E Silver',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art II undefined   Kenneth E Silver
+
+9419
+[ { name: 'Francesca Ferrari',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  History of Western Art II undefined Adding  Francesca Ferrari
+
+9420
+[ { name: 'Francesca Ferrari',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art II undefined   Francesca Ferrari
+
+9421
+[ { name: 'Jennifer G Buonocore',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  History of Western Art II undefined Adding  Jennifer G Buonocore
+
+9422
+[ { name: 'Jennifer G Buonocore',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Western Art II undefined   Jennifer G Buonocore
+
+9890
+[ { name: 'Abhilasha Vedantam Isaac',
+    school: 'College of Arts and Science' },
+  { name: 'John N Hopkins',
+    school: 'College of Arts and Science' } ]
+Adding:  Abhilasha Vedantam Isaac Adding:  Ancient Art undefined
+Course Already Exist:  Ancient Art undefined Adding  John N Hopkins
+
+9657
+[ { name: 'Cristina Aldrich',
+    school: 'College of Arts and Science' },
+  { name: 'Louise Rice', school: 'College of Arts and Science' } ]
+Adding:  Cristina Aldrich Adding:  Renaissance Art undefined
+Course Already Exist:  Renaissance Art undefined Adding  Louise Rice
+
+9423
+[ { name: 'Ami Imai Brett',
+    school: 'College of Arts and Science' },
+  { name: 'Julia E Robinson',
+    school: 'College of Arts and Science' },
+  { name: 'Megan Anne Kincaid',
+    school: 'College of Arts and Science' } ]
+Adding:  Ami Imai Brett Adding:  Modern Art undefined
+Course Already Exist:  Modern Art undefined Adding  Julia E Robinson
+Course Already Exist:  Modern Art undefined Adding  Megan Anne Kincaid
+
+19846
+[ { name: 'John N Hopkins',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  John N Hopkins Adding  Roman Architecture undefined
+
+19973
+[ { name: 'Carol H Krinsky',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Carol H Krinsky Adding  Medieval Architecture undefined
+
+19975
+[ { name: 'Kathryn Ann Smith',
+    school: 'College of Arts and Science' } ]
+Adding:  Kathryn Ann Smith Adding:  Sp Tpcs Medieval Art: The Illuminated Book in the Medieval Christain Wrl
+
+10087
+[ { name: 'Dennis V Geronimus',
+    school: 'College of Arts and Science' } ]
+Adding:  Dennis V Geronimus Adding:  Sp Tpcs Renaissance & Baroque Art: Leonardo and Michelangelo, Triumph and Disaster
+
+19795
+[ { name: 'Christopher Wood',
+    school: 'College of Arts and Science' } ]
+Adding:  Christopher Wood Adding:  Sp Tpcs Renaissance & Baroque Art: Albrecht Dürer and the German Renaissance
+
+9424
+[ { name: 'Samuel Corey Allen',
+    school: 'College of Arts and Science' },
+  { name: 'Shelley Rice', school: 'College of Arts and Science' } ]
+Adding:  Samuel Corey Allen Adding:  Sp Tpcs Modern Art: Social History of Photography
+Course Already Exist:  Sp Tpcs Modern Art: Social History of Photography Adding  Shelley Rice
+
+9425
+[ { name: 'Meredith S Martin',
+    school: 'College of Arts and Science' } ]
+Adding:  Meredith S Martin Adding:  Sp Tpcs Modern Art: Neoclassicism to Realism
+
+19797
+[ { name: 'Julia E Robinson',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Julia E Robinson Adding  Sp Tpcs Modern Art: Neo-Dada, Pop,/Minimalism:From Painting to Concept
+
+19798
+[ { name: 'Eana Kim', school: 'College of Arts and Science' },
+  { name: 'Joseph Low Karmel',
+    school: 'College of Arts and Science' } ]
+Adding:  Eana Kim Adding:  Sp Tpcs Modern Art: Global Contemporary Art
+Course Already Exist:  Sp Tpcs Modern Art: Global Contemporary Art Adding  Joseph Low Karmel
+
+9793
+[ { name: 'Lyla Marie Halsted',
+    school: 'College of Arts and Science' },
+  { name: 'Michele Alberto Matteini',
+    school: 'College of Arts and Science' } ]
+Adding:  Lyla Marie Halsted Adding:  East Asian Art I: China, Korea, Japan to 1000 Ce Global Contemporary Art
+Course Already Exist:  East Asian Art I: China, Korea, Japan to 1000 Ce Global Contemporary Art Adding  Michele Alberto Matteini
+
+10223
+[ { name: 'Dipti Khera', school: 'College of Arts and Science' } ]
+Adding:  Dipti Khera Adding:  South Asian Art I: Indus Valley to 1200 Global Contemporary Art
+
+19799
+[ { name: 'Nadia Ali', school: 'College of Arts and Science' } ]
+Adding:  Nadia Ali Adding:  Art in The Islamic World II: Mongols to Modernism Global Contemporary Art
+
+9427
+[ { name: 'Sandy Prita Meier',
+    school: 'College of Arts and Science' },
+  { name: 'Scarlett Strauss',
+    school: 'College of Arts and Science' } ]
+Adding:  Sandy Prita Meier Adding:  Arts of Africa Global Contemporary Art
+Course Already Exist:  Arts of Africa Global Contemporary Art Adding  Scarlett Strauss
+
+9432
+[ { name: 'Grace Walsh', school: 'College of Arts and Science' },
+  { name: 'Jonathan Hume Ritter',
+    school: 'College of Arts and Science' } ]
+Adding:  Grace Walsh Adding:  History of Architecture: Antiquity to Present Global Contemporary Art
+Course Already Exist:  History of Architecture: Antiquity to Present Global Contemporary Art Adding  Jonathan Hume Ritter
+
+9433
+[ { name: 'Grace Walsh', school: 'College of Arts and Science' },
+  { name: 'Jonathan Hume Ritter',
+    school: 'College of Arts and Science' } ]
+info already in db:  History of Architecture: Antiquity to Present Global Contemporary Art   Grace Walsh
+info already in db:  History of Architecture: Antiquity to Present Global Contemporary Art   Jonathan Hume Ritter
+
+9437
+[ { name: 'Theodore Liebman',
+    school: 'College of Arts and Science' } ]
+Adding:  Theodore Liebman Adding:  Sp Tpcs in Urban Design & Architecture: Affordable Housing
+
+9438
+[ { name: 'Lynden B Miller',
+    school: 'College of Arts and Science' } ]
+Adding:  Lynden B Miller Adding:  Sp Tpcs in Urban Design & Architecture: Elements of Successful Public Space
+
+9439
+[ { name: 'Jennifer Bolstad',
+    school: 'College of Arts and Science' } ]
+Adding:  Jennifer Bolstad Adding:  Sp Tpcs in Urban Design & Architecture: The 4-Dimensional Landscape
+
+9440
+[ { name: 'Jonathan Hume Ritter',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Jonathan Hume Ritter Adding  Sp Tpcs in Urban Design & Architecture: Global Cities and History
+
+10006
+[ { name: 'Maria Ibanez', school: 'College of Arts and Science' },
+  { name: 'Todd Rouhe', school: 'College of Arts and Science' } ]
+Adding:  Maria Ibanez Adding:  Sp Tpcs in Urban Design & Architecture: Drawing for Architects &
+Course Already Exist:  Sp Tpcs in Urban Design & Architecture: Drawing for Architects & Adding  Todd Rouhe
+
+10520
+[ { name: 'Yetsuh Frank', school: 'College of Arts and Science' } ]
+Adding:  Yetsuh Frank Adding:  Sp Tpcs in Urban Design & Architecture: URDS and Health
+
+9434
+[ { name: 'Desiree S Mitton',
+    school: 'College of Arts and Science' },
+  { name: 'Mosette Broderick',
+    school: 'College of Arts and Science' } ]
+Adding:  Desiree S Mitton Adding:  Shaping The Urban Environment URDS and Health
+Course Already Exist:  Shaping The Urban Environment URDS and Health Adding  Mosette Broderick
+
+9436
+[ { name: 'Desiree S Mitton',
+    school: 'College of Arts and Science' },
+  { name: 'Mosette Broderick',
+    school: 'College of Arts and Science' } ]
+info already in db:  Shaping The Urban Environment URDS and Health   Desiree S Mitton
+info already in db:  Shaping The Urban Environment URDS and Health   Mosette Broderick
+
+9435
+[ { name: 'Desiree S Mitton',
+    school: 'College of Arts and Science' },
+  { name: 'Mosette Broderick',
+    school: 'College of Arts and Science' } ]
+info already in db:  Shaping The Urban Environment URDS and Health   Desiree S Mitton
+info already in db:  Shaping The Urban Environment URDS and Health   Mosette Broderick
+
+9441
+[ { name: 'James D Morgan',
+    school: 'College of Arts and Science' } ]
+Adding:  James D Morgan Adding:  Decision-Making & Urban Design URDS and Health
+
+9444
+[ { name: 'Austin Sakong', school: 'College of Arts and Science' },
+  { name: 'Luis A Bustamante',
+    school: 'College of Arts and Science' } ]
+Adding:  Austin Sakong Adding:  Architecture in Context URDS and Health
+Course Already Exist:  Architecture in Context URDS and Health Adding  Luis A Bustamante
+
+9442
+[ { name: 'Holly B Haff', school: 'College of Arts and Science' } ]
+Adding:  Holly B Haff Adding:  Urban Design: Infrastructure URDS and Health
+
+9443
+[ { name: 'Stephen M Raphael',
+    school: 'College of Arts and Science' } ]
+Adding:  Stephen M Raphael Adding:  Urban Design & The Law URDS and Health
+
+9428
+[ { name: 'Kenneth E Silver',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Kenneth E Silver Adding  Advanced Seminar Public Art in New York City, Then and Now
+
+9429
+[ { name: 'Shelley Rice', school: 'College of Arts and Science' },
+  { name: 'Ulrich C Baer', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Shelley Rice Adding  Advanced Seminar Global Issues on Contemporary Photography
+Course Already Exist:  Advanced Seminar Global Issues on Contemporary Photography Adding  Ulrich C Baer
+
+9430
+[ { name: 'Louise Rice', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Louise Rice Adding  Advanced Seminar In Black and White: Printmaking in Europe, 1550-17
+
+9431
+[ { name: 'Kathryn Ann Smith',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Kathryn Ann Smith Adding  Advanced Seminar Monsters and the Grotesque in the Western Visual
+
+19921
+[ { name: 'Dipti Khera', school: 'College of Arts and Science' } ]
+Professor Already Exist:  Dipti Khera Adding  Advanced Seminar Eat, Pray, Love: Painted World in India
+
+9426
+[ { name: 'James D Morgan',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  James D Morgan Adding  Senior Honors Thesis I Eat, Pray, Love: Painted World in India
+
+9455
+[ { name: 'Meredith S Martin',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Meredith S Martin Adding  Independent Studies Eat, Pray, Love: Painted World in India
+
+9456
+[ { name: 'Meredith S Martin',
+    school: 'College of Arts and Science' } ]
+info already in db:  Independent Studies Eat, Pray, Love: Painted World in India   Meredith S Martin
+
+9965
+[ { name: 'Miriam M Basilio',
+    school: 'College of Arts and Science' } ]
+Adding:  Miriam M Basilio Adding:  Special Topics: Art and Politics: Exhibiting the Visual Propaganda
+
+9966
+[ { name: 'Joan Breton Connelly',
+    school: 'College of Arts and Science' } ]
+Adding:  Joan Breton Connelly Adding:  Special Topics: Cities & Sanctuaries of AncientGreece:;
+
+9971
+[ { name: 'Leila A Amineddoleh',
+    school: 'College of Arts and Science' } ]
+Adding:  Leila A Amineddoleh Adding:  Special Topics: Art and Law
+
+21142
+[ { name: 'Joseph Low Karmel',
+    school: 'College of Arts and Science' } ]
+Professor Already Exist:  Joseph Low Karmel Adding  Special Topics: Approaching Art History
+
+9810
+[ { name: 'Ignatius P Tan',
+    school: 'College of Arts and Science' } ]
+Adding:  Ignatius P Tan Adding:  Practical Human Physiology Approaching Art History
+
+7953
+[ { name: 'David H A Fitch',
+    school: 'College of Arts and Science' },
+  { name: 'Stephen J Small',
+    school: 'College of Arts and Science' } ]
+Adding:  David H A Fitch Adding:  Principles of Biology I Approaching Art History
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Stephen J Small
+
+7954
+[ { name: 'Natasha Christine Koussa',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Natasha Christine Koussa
+
+7955
+[ { name: 'Gizem Guzelsoy',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Gizem Guzelsoy
+
+7956
+[ { name: 'Amanda Ferreira',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Amanda Ferreira
+
+7957
+[ { name: 'Cassandra Buzby',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Cassandra Buzby
+
+7958
+[ { name: 'Natasha Christine Koussa',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Natasha Christine Koussa
+
+7959
+[ { name: 'Cassandra Buzby',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Cassandra Buzby
+
+7960
+[ { name: 'Xinyi Guo', school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Xinyi Guo
+
+7961
+[ { name: 'Xinyi Guo', school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Xinyi Guo
+
+7963
+[ { name: 'Krysten Harvey',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Krysten Harvey
+
+7964
+[ { name: 'Gizem Guzelsoy',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Gizem Guzelsoy
+
+7965
+[ { name: 'Amanda Ferreira',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Amanda Ferreira
+
+7966
+[ { name: 'Federica Sartori',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Federica Sartori
+
+7967
+[ { name: 'Federica Sartori',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Federica Sartori
+
+7968
+[ { name: 'Marissa R Knoll',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Marissa R Knoll
+
+7969
+[ { name: 'Woo Jin Kim', school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Woo Jin Kim
+
+7971
+[ { name: 'Woo Jin Kim', school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Woo Jin Kim
+
+7973
+[ { name: 'Yen-Chung Chen',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Yen-Chung Chen
+
+7974
+[ { name: 'Yen-Chung Chen',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Yen-Chung Chen
+
+7975
+[ { name: 'Amanda Ferreira',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Amanda Ferreira
+
+7976
+[ { name: 'Daniel Sultanov',
+    school: 'College of Arts and Science' } ]
+Course Already Exist:  Principles of Biology I Approaching Art History Adding  Daniel Sultanov
+
+7977
+[ { name: 'Marissa R Knoll',
+    school: 'College of Arts and Science' } ]
+info already in db:  Principles of Biology I Approaching Art History   Marissa R Knoll
