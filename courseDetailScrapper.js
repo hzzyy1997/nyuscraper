@@ -141,7 +141,7 @@ async function storeToDB(course, prof) {
     console.log(courseArr.length)
     const baseUrl = "https://m.albert.nyu.edu/app/catalog/classsection/NYUNV/1198/"
     const course = {}
-    for (let i = 1060; i < courseArr.length; i++) {
+    for (let i = 0; i < courseArr.length; i++) {
         if (courseArr[i][0] === 'm') {
             course.major = courseArr[i].slice(6,)
         } else if (courseArr[i][0] === 's') {
