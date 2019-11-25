@@ -101,21 +101,21 @@ async function storeToDB(course, prof) {
         const existingCourse = values[0]
         const existingProf = values[1]
         if (existingCourse && existingProf) {
-            console.log("info already in db: ", existingCourse.name, " ", existingProf.name)
+            console.log("info already in db: ", existingCourse.name, existingCourse.topic, " ", existingProf.name)
         } else if (existingCourse) {
             // course already in database
             prof.courses = [existingCourse._id]
             newProf = new Professor(prof)
             savedProf = await newProf.save()
             await Course.findByIdAndUpdate(existingCourse._id, { $addToSet : {profs : savedProf._id } })
-            console.log("Course Already Exist: ", existingCourse.name, "Adding ", savedProf.name)
+            console.log("Course Already Exist: ", existingCourse.name, existingCourse.topic, "Adding ", savedProf.name)
         } else if (existingProf) {
             // professor already in database
             course.profs = [existingProf._id]
             newCourse = new Course(course)
             savedCourse = await newCourse.save()
             await Professor.findByIdAndUpdate(existingProf._id, {$addToSet : {courses : savedCourse._id }})
-            console.log("Professor Already Exist: ", existingProf.name, "Adding ", savedCourse.name)
+            console.log("Professor Already Exist: ", existingProf.name, "Adding ", savedCourse.name, savedCourse.topic)
         } else {
             // both not  in database
             newProf = new Professor(prof)
@@ -125,7 +125,7 @@ async function storeToDB(course, prof) {
             savedInfo = await Promise.all([savedProf, savedCourse])
             await Course.findByIdAndUpdate(savedInfo[1]._id, { $addToSet : {profs : savedInfo[0]._id } })
             await Professor.findByIdAndUpdate(savedInfo[0]._id, {$addToSet : {courses : savedInfo[1]._id }})
-            console.log("Adding: ", savedProf.name, "Adding: ", savedCourse.name)
+            console.log("Adding: ", savedProf.name, "Adding: ", savedCourse.name, savedCourse.topic,)
         }
     });
 }
@@ -149,6 +149,9 @@ async function storeToDB(course, prof) {
         } else {
             const info = await fatchSingleCourse(baseUrl, courseArr[i], course)
             if (info) {
+                console.log()
+                console.log(info.course.number)
+                console.log(info.profs)
                 courseInfo = info.course
                 profInfo = info.profs
                 for (professor of profInfo) {
