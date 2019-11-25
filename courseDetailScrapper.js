@@ -30,6 +30,7 @@ function fatchSingleCourse(baseUrl, courseUrl, course) {
                     const courseCodeSec = $('h1.page-title')
                     course.code = $(courseCodeSec[0]).text().trim()
                     course.name = $(title[0]).text().trim()
+                    course.prof = []
                     if (leftElem.length !== rightElem.length) {
                         console.error(`divs dont match at ${url}`);
                     } else {
@@ -90,6 +91,7 @@ function fatchSingleCourse(baseUrl, courseUrl, course) {
 }
 
 async function storeToDB(course, prof) {
+    console.log("in store to DB ", course, ' ', prof)
     const findExistingCourse = Course.findOne({name : course.name, major : course.major, school: course.school, topic: course.topic})
     const findExistingProf = Professor.findOne({name : prof.name})
     await Promise.all([findExistingCourse, findExistingProf]).then(async function(values) {
@@ -99,16 +101,16 @@ async function storeToDB(course, prof) {
             console.log("info already in db: ", existingCourse.name, existingCourse.topic, " ", existingProf.name)
         } else if (existingCourse) {
             // course already in database
-            prof.courses = [existingCourse._id]
             newProf = new Professor(prof)
             savedProf = await newProf.save()
             await Course.findByIdAndUpdate(existingCourse._id, { $addToSet : {profs : savedProf._id } })
+            await Professor.findByIdAndUpdate(savedProf._id, {$addToSet : {courses : existingCourse._id }})
             console.log("Course Already Exist: ", existingCourse.name, existingCourse.topic, "Adding ", savedProf.name)
         } else if (existingProf) {
             // professor already in database
-            course.profs = [existingProf._id]
             newCourse = new Course(course)
             savedCourse = await newCourse.save()
+            await Course.findByIdAndUpdate(savedCourse._id, { $addToSet : {profs : existingProf._id } })
             await Professor.findByIdAndUpdate(existingProf._id, {$addToSet : {courses : savedCourse._id }})
             console.log("Professor Already Exist: ", existingProf.name, "Adding ", savedCourse.name, savedCourse.topic)
         } else {
